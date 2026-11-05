@@ -1,0 +1,11 @@
+# ml-service/requirements.txt
+# Pinned dependencies: model .pkl artifacts are version-sensitive under joblib/pickle.
+# Regenerate models via `python train.py` if scikit-learn or dependencies are upgraded.
+
+fastapi==0.136.0
+uvicorn[standard]==0.44.0
+numpy==2.4.4
+pandas==3.0.2
+scikit-learn==1.8.0
+joblib==1.5.3
+pydantic==2.13.2

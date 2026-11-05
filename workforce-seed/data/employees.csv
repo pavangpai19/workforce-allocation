@@ -1,0 +1,41 @@
+id,name,email,role,department,weekly_capacity_hours,max_capacity_hours,reliability_score,efficiency_score,consistency_score,availability_score,status,created_at
+10000000-0000-4000-8000-000000000001,Aarav Sharma,aarav.sharma@workforce.example,Senior Cloud Architect,Cloud Infrastructure,40,40,0.85,0.8,0.91,0.6,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-000000000002,Priya Patel,priya.patel@workforce.example,Staff Backend Engineer,Core Platform,40,40,0.82,0.81,0.97,0.92,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-000000000003,Rohan Iyer,rohan.iyer@workforce.example,Full Stack Engineer,Data Engineering,40,40,0.95,0.92,0.88,0.76,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-000000000004,Ananya Verma,ananya.verma@workforce.example,DevOps & SRE Engineer,Product Engineering,40,40,0.84,0.83,0.82,0.63,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-000000000005,Vikram Malhotra,vikram.malhotra@workforce.example,Distributed Systems Engineer,Platform Security,40,40,0.95,0.87,0.93,0.64,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-000000000006,Kavita Nair,kavita.nair@workforce.example,Data Platform Engineer,Cloud Infrastructure,40,40,0.92,0.96,0.95,0.81,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-000000000007,Aditya Deshmukh,aditya.deshmukh@workforce.example,Security & IAM Specialist,Core Platform,40,40,0.98,0.94,0.85,0.67,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-000000000008,Sneha Chopra,sneha.chopra@workforce.example,Frontend Systems Engineer,Data Engineering,40,40,0.8,0.91,0.88,0.71,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-000000000009,Arjun Mehta,arjun.mehta@workforce.example,Senior Cloud Architect,Product Engineering,40,40,0.97,0.97,0.91,0.92,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-00000000000a,Deepika Reddy,deepika.reddy@workforce.example,Staff Backend Engineer,Platform Security,40,40,0.9,0.92,0.83,0.65,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-00000000000b,Rahul Banerjee,rahul.banerjee@workforce.example,Full Stack Engineer,Cloud Infrastructure,40,40,0.89,0.79,0.96,0.83,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-00000000000c,Neha Joshi,neha.joshi@workforce.example,DevOps & SRE Engineer,Core Platform,40,40,0.88,0.85,0.91,0.76,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-00000000000d,Siddharth Kapoor,siddharth.kapoor@workforce.example,Distributed Systems Engineer,Data Engineering,40,40,0.88,0.97,0.93,0.77,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-00000000000e,Pooja Bhat,pooja.bhat@workforce.example,Data Platform Engineer,Product Engineering,40,40,0.84,0.8,0.87,0.7,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-00000000000f,Karan Rao,karan.rao@workforce.example,Security & IAM Specialist,Platform Security,40,40,0.97,0.94,0.96,0.57,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-000000000010,Meera Gupta,meera.gupta@workforce.example,Frontend Systems Engineer,Cloud Infrastructure,40,40,0.91,0.8,0.9,0.76,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-000000000011,Varun Saxena,varun.saxena@workforce.example,Senior Cloud Architect,Core Platform,40,40,0.97,0.9,0.91,0.9,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-000000000012,Ritu Kulkarni,ritu.kulkarni@workforce.example,Staff Backend Engineer,Data Engineering,40,40,0.82,0.94,0.98,0.68,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-000000000013,Nikhil Singhania,nikhil.singhania@workforce.example,Full Stack Engineer,Product Engineering,40,40,0.97,0.93,0.83,0.89,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-000000000014,Tanvi Menon,tanvi.menon@workforce.example,DevOps & SRE Engineer,Platform Security,40,40,0.96,0.79,0.93,0.54,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-000000000015,Abhishek Nambiar,abhishek.nambiar@workforce.example,Distributed Systems Engineer,Cloud Infrastructure,40,40,0.88,0.88,0.93,0.59,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-000000000016,Shreya Pandey,shreya.pandey@workforce.example,Data Platform Engineer,Core Platform,40,40,0.97,0.97,0.93,0.79,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-000000000017,Gaurav Agarwal,gaurav.agarwal@workforce.example,Security & IAM Specialist,Data Engineering,40,40,0.83,0.86,0.9,0.62,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-000000000018,Divya Chatterjee,divya.chatterjee@workforce.example,Frontend Systems Engineer,Product Engineering,40,40,0.96,0.83,0.92,0.57,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-000000000019,Manish Mukherjee,manish.mukherjee@workforce.example,Senior Cloud Architect,Platform Security,40,40,0.87,0.96,0.91,0.6,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-00000000001a,Isha Dutta,isha.dutta@workforce.example,Staff Backend Engineer,Cloud Infrastructure,40,40,0.95,0.86,0.88,0.9,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-00000000001b,Kunal Sengupta,kunal.sengupta@workforce.example,Full Stack Engineer,Core Platform,40,40,0.81,0.89,0.94,0.89,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-00000000001c,Swati Pillai,swati.pillai@workforce.example,DevOps & SRE Engineer,Data Engineering,40,40,0.94,0.84,0.93,0.67,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-00000000001d,Alok Acharya,alok.acharya@workforce.example,Distributed Systems Engineer,Product Engineering,40,40,0.88,0.88,0.85,0.9,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-00000000001e,Anjali Trivedi,anjali.trivedi@workforce.example,Data Platform Engineer,Platform Security,40,40,0.93,0.91,0.89,0.61,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-00000000001f,Dev Bose,dev.bose@workforce.example,Security & IAM Specialist,Cloud Infrastructure,40,40,0.81,0.95,0.83,0.94,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-000000000020,Tara Mishra,tara.mishra@workforce.example,Frontend Systems Engineer,Core Platform,40,40,0.96,0.96,0.87,0.54,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-000000000021,Prateek Ghosh,prateek.ghosh@workforce.example,Senior Cloud Architect,Data Engineering,40,40,0.93,0.86,0.88,0.58,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-000000000022,Pallavi Choudhury,pallavi.choudhury@workforce.example,Staff Backend Engineer,Product Engineering,40,40,0.84,0.91,0.98,0.57,ACTIVE,2025-11-01T09:00:00Z
+10000000-0000-4000-8000-000000000023,Akash Hegde,akash.hegde@workforce.example,Full Stack Engineer,Platform Security,40,40,0.7,0.72,0.68,1,ACTIVE,2026-10-15T09:00:00Z
+10000000-0000-4000-8000-000000000024,Simran Gowda,simran.gowda@workforce.example,DevOps & SRE Engineer,Cloud Infrastructure,40,40,0.7,0.72,0.68,1,ACTIVE,2026-10-15T09:00:00Z
+10000000-0000-4000-8000-000000000025,Harsh Shetty,harsh.shetty@workforce.example,Distributed Systems Engineer,Core Platform,40,40,0.7,0.72,0.68,1,ACTIVE,2026-10-15T09:00:00Z
+10000000-0000-4000-8000-000000000026,Radhika Bhattacharya,radhika.bhattacharya@workforce.example,Data Platform Engineer,Data Engineering,40,40,0.7,0.72,0.68,1,ACTIVE,2026-10-15T09:00:00Z
+10000000-0000-4000-8000-000000000027,Vishal Sethi,vishal.sethi@workforce.example,Security & IAM Specialist,Product Engineering,40,40,0.7,0.72,0.68,1,ACTIVE,2026-10-15T09:00:00Z
+10000000-0000-4000-8000-000000000028,Payal Prasad,payal.prasad@workforce.example,Frontend Systems Engineer,Platform Security,40,40,0.7,0.72,0.68,1,ACTIVE,2026-10-15T09:00:00Z

@@ -1,0 +1,512 @@
+[
+  {
+    "id": "80000000-0000-4000-8000-000000000001",
+    "employee_id": "10000000-0000-4000-8000-000000000001",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 4,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Aarav Sharma demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000002",
+    "employee_id": "10000000-0000-4000-8000-000000000001",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "manager_name": "Alex Rivera",
+    "rating": 5,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Aarav Sharma demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000003",
+    "employee_id": "10000000-0000-4000-8000-000000000002",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 5,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Priya Patel demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000004",
+    "employee_id": "10000000-0000-4000-8000-000000000003",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 4,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Rohan Iyer demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000005",
+    "employee_id": "10000000-0000-4000-8000-000000000004",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 4,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Ananya Verma demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000006",
+    "employee_id": "10000000-0000-4000-8000-000000000004",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "manager_name": "Alex Rivera",
+    "rating": 5,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Ananya Verma demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000007",
+    "employee_id": "10000000-0000-4000-8000-000000000005",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 5,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Vikram Malhotra demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000008",
+    "employee_id": "10000000-0000-4000-8000-000000000006",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 4,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Kavita Nair demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000009",
+    "employee_id": "10000000-0000-4000-8000-000000000007",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 5,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Aditya Deshmukh demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-00000000000a",
+    "employee_id": "10000000-0000-4000-8000-000000000007",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "manager_name": "Alex Rivera",
+    "rating": 5,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Aditya Deshmukh demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-00000000000b",
+    "employee_id": "10000000-0000-4000-8000-000000000008",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 4,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Sneha Chopra demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-00000000000c",
+    "employee_id": "10000000-0000-4000-8000-000000000009",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 5,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Arjun Mehta demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-00000000000d",
+    "employee_id": "10000000-0000-4000-8000-000000000009",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "manager_name": "Alex Rivera",
+    "rating": 4,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Arjun Mehta demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-00000000000e",
+    "employee_id": "10000000-0000-4000-8000-00000000000a",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 4,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Deepika Reddy demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-00000000000f",
+    "employee_id": "10000000-0000-4000-8000-00000000000a",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "manager_name": "Alex Rivera",
+    "rating": 4,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Deepika Reddy demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000010",
+    "employee_id": "10000000-0000-4000-8000-00000000000b",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 5,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Rahul Banerjee demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000011",
+    "employee_id": "10000000-0000-4000-8000-00000000000c",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 5,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Neha Joshi demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000012",
+    "employee_id": "10000000-0000-4000-8000-00000000000d",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 5,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Siddharth Kapoor demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000013",
+    "employee_id": "10000000-0000-4000-8000-00000000000d",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "manager_name": "Alex Rivera",
+    "rating": 5,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Siddharth Kapoor demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000014",
+    "employee_id": "10000000-0000-4000-8000-00000000000e",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 4,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Pooja Bhat demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000015",
+    "employee_id": "10000000-0000-4000-8000-00000000000e",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "manager_name": "Alex Rivera",
+    "rating": 5,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Pooja Bhat demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000016",
+    "employee_id": "10000000-0000-4000-8000-00000000000f",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 5,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Karan Rao demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000017",
+    "employee_id": "10000000-0000-4000-8000-00000000000f",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "manager_name": "Alex Rivera",
+    "rating": 4,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Karan Rao demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000018",
+    "employee_id": "10000000-0000-4000-8000-000000000010",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 4,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Meera Gupta demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000019",
+    "employee_id": "10000000-0000-4000-8000-000000000010",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "manager_name": "Alex Rivera",
+    "rating": 4,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Meera Gupta demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-00000000001a",
+    "employee_id": "10000000-0000-4000-8000-000000000011",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 5,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Varun Saxena demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-00000000001b",
+    "employee_id": "10000000-0000-4000-8000-000000000012",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 5,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Ritu Kulkarni demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-00000000001c",
+    "employee_id": "10000000-0000-4000-8000-000000000013",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 5,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Nikhil Singhania demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-00000000001d",
+    "employee_id": "10000000-0000-4000-8000-000000000013",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "manager_name": "Alex Rivera",
+    "rating": 4,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Nikhil Singhania demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-00000000001e",
+    "employee_id": "10000000-0000-4000-8000-000000000014",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 5,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Tanvi Menon demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-00000000001f",
+    "employee_id": "10000000-0000-4000-8000-000000000015",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 4,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Abhishek Nambiar demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000020",
+    "employee_id": "10000000-0000-4000-8000-000000000016",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 4,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Shreya Pandey demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000021",
+    "employee_id": "10000000-0000-4000-8000-000000000017",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 4,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Gaurav Agarwal demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000022",
+    "employee_id": "10000000-0000-4000-8000-000000000017",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "manager_name": "Alex Rivera",
+    "rating": 4,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Gaurav Agarwal demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000023",
+    "employee_id": "10000000-0000-4000-8000-000000000018",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 4,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Divya Chatterjee demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000024",
+    "employee_id": "10000000-0000-4000-8000-000000000018",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "manager_name": "Alex Rivera",
+    "rating": 5,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Divya Chatterjee demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000025",
+    "employee_id": "10000000-0000-4000-8000-000000000019",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 4,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Manish Mukherjee demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000026",
+    "employee_id": "10000000-0000-4000-8000-00000000001a",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 4,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Isha Dutta demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000027",
+    "employee_id": "10000000-0000-4000-8000-00000000001a",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "manager_name": "Alex Rivera",
+    "rating": 5,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Isha Dutta demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000028",
+    "employee_id": "10000000-0000-4000-8000-00000000001b",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 5,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Kunal Sengupta demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000029",
+    "employee_id": "10000000-0000-4000-8000-00000000001c",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 4,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Swati Pillai demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-00000000002a",
+    "employee_id": "10000000-0000-4000-8000-00000000001c",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "manager_name": "Alex Rivera",
+    "rating": 5,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Swati Pillai demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-00000000002b",
+    "employee_id": "10000000-0000-4000-8000-00000000001d",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 4,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Alok Acharya demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-00000000002c",
+    "employee_id": "10000000-0000-4000-8000-00000000001d",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "manager_name": "Alex Rivera",
+    "rating": 4,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Alok Acharya demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-00000000002d",
+    "employee_id": "10000000-0000-4000-8000-00000000001e",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 5,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Anjali Trivedi demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-00000000002e",
+    "employee_id": "10000000-0000-4000-8000-00000000001f",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 5,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Dev Bose demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-00000000002f",
+    "employee_id": "10000000-0000-4000-8000-00000000001f",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "manager_name": "Alex Rivera",
+    "rating": 4,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Dev Bose demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000030",
+    "employee_id": "10000000-0000-4000-8000-000000000020",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 4,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Tara Mishra demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000031",
+    "employee_id": "10000000-0000-4000-8000-000000000021",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 5,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Prateek Ghosh demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000032",
+    "employee_id": "10000000-0000-4000-8000-000000000022",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "manager_name": "Dr. Sarah Chen",
+    "rating": 5,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Pallavi Choudhury demonstrated outstanding ownership on sprint deliverables."
+  },
+  {
+    "id": "80000000-0000-4000-8000-000000000033",
+    "employee_id": "10000000-0000-4000-8000-000000000022",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "manager_name": "Alex Rivera",
+    "rating": 4,
+    "strengths": "Consistent architecture delivery, strong team mentorship, and proactive incident mitigation.",
+    "weaknesses": "Occasional reluctance to delegate lower-priority backlog tasks.",
+    "comments": "Pallavi Choudhury demonstrated outstanding ownership on sprint deliverables."
+  }
+]

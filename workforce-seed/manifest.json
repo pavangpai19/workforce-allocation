@@ -1,0 +1,58 @@
+{
+  "manifest_version": "1.1.0",
+  "dataset_name": "WorkforceIQ Synthetic Enterprise Dataset",
+  "generated_at": "2026-11-03T17:12:00.567Z",
+  "reference_date": "2026-11-03",
+  "random_seed": 42,
+  "provenance": {
+    "generator": "workforce-seed/generate_seed.cjs",
+    "names_origin": "Fictional Indian names (40 distinct combinations)",
+    "email_domain": "workforce.example",
+    "cold_start_employees_count": 6,
+    "deterministic_uuids": true,
+    "max_workload_hours_default": 40,
+    "stress_scenario_fixture_available": true
+  },
+  "record_counts": {
+    "employees": 40,
+    "skills": 28,
+    "employee_skills": 196,
+    "projects": 7,
+    "project_staffing_requirements": 24,
+    "tasks": 303,
+    "task_history": 291,
+    "allocations": 47,
+    "employee_performance": 189,
+    "manager_feedback": 51,
+    "alerts": 4
+  },
+  "id_sample": {
+    "first_employee": {
+      "id": "10000000-0000-4000-8000-000000000001",
+      "name": "Aarav Sharma",
+      "email": "aarav.sharma@workforce.example"
+    },
+    "last_employee": {
+      "id": "10000000-0000-4000-8000-000000000028",
+      "name": "Payal Prasad",
+      "email": "payal.prasad@workforce.example",
+      "cold_start": true
+    },
+    "first_project": {
+      "id": "30000000-0000-4000-8000-000000000001",
+      "name": "Cloud Native Migration Platform"
+    },
+    "first_skill": {
+      "id": "20000000-0000-4000-8000-000000000001",
+      "name": "Cloud Architecture"
+    },
+    "first_task": {
+      "id": "61000000-0000-4000-8000-000000000001",
+      "title": "Refactor connection pool timeout handling"
+    },
+    "first_task_history": {
+      "id": "60000000-0000-4000-8000-000000000001",
+      "task_id": "61000000-0000-4000-8000-000000000001"
+    }
+  }
+}

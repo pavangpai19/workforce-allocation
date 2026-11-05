@@ -1,0 +1,1703 @@
+[
+  {
+    "id": "70000000-0000-4000-8000-000000000001",
+    "employee_id": "10000000-0000-4000-8000-000000000001",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.9,
+    "quality_score": 0.99,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000002",
+    "employee_id": "10000000-0000-4000-8000-000000000001",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.82,
+    "quality_score": 0.97,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000003",
+    "employee_id": "10000000-0000-4000-8000-000000000001",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.88,
+    "quality_score": 0.94,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000004",
+    "employee_id": "10000000-0000-4000-8000-000000000001",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.9,
+    "quality_score": 0.98,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000005",
+    "employee_id": "10000000-0000-4000-8000-000000000001",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "week_start_date": "2026-09-29",
+    "delivery_score": 0.93,
+    "quality_score": 0.86,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000006",
+    "employee_id": "10000000-0000-4000-8000-000000000002",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.92,
+    "quality_score": 0.9,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000007",
+    "employee_id": "10000000-0000-4000-8000-000000000002",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.96,
+    "quality_score": 0.97,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000008",
+    "employee_id": "10000000-0000-4000-8000-000000000002",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.89,
+    "quality_score": 0.89,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000009",
+    "employee_id": "10000000-0000-4000-8000-000000000002",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.82,
+    "quality_score": 0.97,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000000a",
+    "employee_id": "10000000-0000-4000-8000-000000000003",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.79,
+    "quality_score": 0.89,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000000b",
+    "employee_id": "10000000-0000-4000-8000-000000000003",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.76,
+    "quality_score": 0.85,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000000c",
+    "employee_id": "10000000-0000-4000-8000-000000000003",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.97,
+    "quality_score": 0.93,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000000d",
+    "employee_id": "10000000-0000-4000-8000-000000000003",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.97,
+    "quality_score": 0.84,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000000e",
+    "employee_id": "10000000-0000-4000-8000-000000000004",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.79,
+    "quality_score": 0.89,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000000f",
+    "employee_id": "10000000-0000-4000-8000-000000000004",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.75,
+    "quality_score": 0.96,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000010",
+    "employee_id": "10000000-0000-4000-8000-000000000004",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.85,
+    "quality_score": 0.81,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000011",
+    "employee_id": "10000000-0000-4000-8000-000000000004",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.8,
+    "quality_score": 0.9,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000012",
+    "employee_id": "10000000-0000-4000-8000-000000000004",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "week_start_date": "2026-09-29",
+    "delivery_score": 0.87,
+    "quality_score": 0.83,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000013",
+    "employee_id": "10000000-0000-4000-8000-000000000004",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-09-22",
+    "delivery_score": 0.89,
+    "quality_score": 0.99,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000014",
+    "employee_id": "10000000-0000-4000-8000-000000000005",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.9,
+    "quality_score": 0.83,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000015",
+    "employee_id": "10000000-0000-4000-8000-000000000005",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.8,
+    "quality_score": 0.92,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000016",
+    "employee_id": "10000000-0000-4000-8000-000000000005",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.76,
+    "quality_score": 0.99,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000017",
+    "employee_id": "10000000-0000-4000-8000-000000000005",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.91,
+    "quality_score": 0.83,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000018",
+    "employee_id": "10000000-0000-4000-8000-000000000005",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "week_start_date": "2026-09-29",
+    "delivery_score": 0.82,
+    "quality_score": 0.94,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000019",
+    "employee_id": "10000000-0000-4000-8000-000000000006",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.92,
+    "quality_score": 0.81,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000001a",
+    "employee_id": "10000000-0000-4000-8000-000000000006",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.79,
+    "quality_score": 0.98,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000001b",
+    "employee_id": "10000000-0000-4000-8000-000000000006",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.83,
+    "quality_score": 0.97,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000001c",
+    "employee_id": "10000000-0000-4000-8000-000000000006",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.91,
+    "quality_score": 0.94,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000001d",
+    "employee_id": "10000000-0000-4000-8000-000000000006",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "week_start_date": "2026-09-29",
+    "delivery_score": 0.82,
+    "quality_score": 0.86,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000001e",
+    "employee_id": "10000000-0000-4000-8000-000000000006",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-09-22",
+    "delivery_score": 0.85,
+    "quality_score": 0.93,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000001f",
+    "employee_id": "10000000-0000-4000-8000-000000000007",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.85,
+    "quality_score": 0.98,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000020",
+    "employee_id": "10000000-0000-4000-8000-000000000007",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.95,
+    "quality_score": 0.95,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000021",
+    "employee_id": "10000000-0000-4000-8000-000000000007",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.82,
+    "quality_score": 0.99,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000022",
+    "employee_id": "10000000-0000-4000-8000-000000000007",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.78,
+    "quality_score": 0.81,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000023",
+    "employee_id": "10000000-0000-4000-8000-000000000007",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "week_start_date": "2026-09-29",
+    "delivery_score": 0.78,
+    "quality_score": 0.84,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000024",
+    "employee_id": "10000000-0000-4000-8000-000000000008",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.84,
+    "quality_score": 0.87,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000025",
+    "employee_id": "10000000-0000-4000-8000-000000000008",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.89,
+    "quality_score": 0.84,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000026",
+    "employee_id": "10000000-0000-4000-8000-000000000008",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.89,
+    "quality_score": 0.89,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000027",
+    "employee_id": "10000000-0000-4000-8000-000000000008",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.8,
+    "quality_score": 0.93,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000028",
+    "employee_id": "10000000-0000-4000-8000-000000000008",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "week_start_date": "2026-09-29",
+    "delivery_score": 0.9,
+    "quality_score": 0.94,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000029",
+    "employee_id": "10000000-0000-4000-8000-000000000008",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-09-22",
+    "delivery_score": 0.97,
+    "quality_score": 0.95,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000002a",
+    "employee_id": "10000000-0000-4000-8000-000000000008",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-09-15",
+    "delivery_score": 0.91,
+    "quality_score": 0.9,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000002b",
+    "employee_id": "10000000-0000-4000-8000-000000000009",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.96,
+    "quality_score": 0.89,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000002c",
+    "employee_id": "10000000-0000-4000-8000-000000000009",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.89,
+    "quality_score": 0.98,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000002d",
+    "employee_id": "10000000-0000-4000-8000-000000000009",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.89,
+    "quality_score": 0.82,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000002e",
+    "employee_id": "10000000-0000-4000-8000-000000000009",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.93,
+    "quality_score": 0.94,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000002f",
+    "employee_id": "10000000-0000-4000-8000-000000000009",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "week_start_date": "2026-09-29",
+    "delivery_score": 0.79,
+    "quality_score": 0.93,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000030",
+    "employee_id": "10000000-0000-4000-8000-000000000009",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-09-22",
+    "delivery_score": 0.93,
+    "quality_score": 0.91,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000031",
+    "employee_id": "10000000-0000-4000-8000-000000000009",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-09-15",
+    "delivery_score": 0.84,
+    "quality_score": 0.84,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000032",
+    "employee_id": "10000000-0000-4000-8000-00000000000a",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.84,
+    "quality_score": 0.95,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000033",
+    "employee_id": "10000000-0000-4000-8000-00000000000a",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.9,
+    "quality_score": 0.82,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000034",
+    "employee_id": "10000000-0000-4000-8000-00000000000a",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.97,
+    "quality_score": 0.98,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000035",
+    "employee_id": "10000000-0000-4000-8000-00000000000a",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.83,
+    "quality_score": 0.83,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000036",
+    "employee_id": "10000000-0000-4000-8000-00000000000b",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.89,
+    "quality_score": 0.85,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000037",
+    "employee_id": "10000000-0000-4000-8000-00000000000b",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.82,
+    "quality_score": 0.95,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000038",
+    "employee_id": "10000000-0000-4000-8000-00000000000b",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.86,
+    "quality_score": 0.82,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000039",
+    "employee_id": "10000000-0000-4000-8000-00000000000b",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.94,
+    "quality_score": 0.84,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000003a",
+    "employee_id": "10000000-0000-4000-8000-00000000000c",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.81,
+    "quality_score": 0.87,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000003b",
+    "employee_id": "10000000-0000-4000-8000-00000000000c",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.98,
+    "quality_score": 0.92,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000003c",
+    "employee_id": "10000000-0000-4000-8000-00000000000c",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.8,
+    "quality_score": 0.95,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000003d",
+    "employee_id": "10000000-0000-4000-8000-00000000000c",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.92,
+    "quality_score": 0.8,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000003e",
+    "employee_id": "10000000-0000-4000-8000-00000000000c",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "week_start_date": "2026-09-29",
+    "delivery_score": 0.95,
+    "quality_score": 0.95,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000003f",
+    "employee_id": "10000000-0000-4000-8000-00000000000d",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.76,
+    "quality_score": 0.85,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000040",
+    "employee_id": "10000000-0000-4000-8000-00000000000d",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.92,
+    "quality_score": 0.98,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000041",
+    "employee_id": "10000000-0000-4000-8000-00000000000d",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.97,
+    "quality_score": 0.95,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000042",
+    "employee_id": "10000000-0000-4000-8000-00000000000d",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.9,
+    "quality_score": 0.97,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000043",
+    "employee_id": "10000000-0000-4000-8000-00000000000d",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "week_start_date": "2026-09-29",
+    "delivery_score": 0.9,
+    "quality_score": 0.88,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000044",
+    "employee_id": "10000000-0000-4000-8000-00000000000d",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-09-22",
+    "delivery_score": 0.84,
+    "quality_score": 0.95,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000045",
+    "employee_id": "10000000-0000-4000-8000-00000000000d",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-09-15",
+    "delivery_score": 0.9,
+    "quality_score": 0.88,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000046",
+    "employee_id": "10000000-0000-4000-8000-00000000000e",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.9,
+    "quality_score": 0.83,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000047",
+    "employee_id": "10000000-0000-4000-8000-00000000000e",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.92,
+    "quality_score": 0.94,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000048",
+    "employee_id": "10000000-0000-4000-8000-00000000000e",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.83,
+    "quality_score": 0.99,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000049",
+    "employee_id": "10000000-0000-4000-8000-00000000000e",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.84,
+    "quality_score": 0.95,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000004a",
+    "employee_id": "10000000-0000-4000-8000-00000000000e",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "week_start_date": "2026-09-29",
+    "delivery_score": 0.79,
+    "quality_score": 0.89,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000004b",
+    "employee_id": "10000000-0000-4000-8000-00000000000f",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.81,
+    "quality_score": 0.92,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000004c",
+    "employee_id": "10000000-0000-4000-8000-00000000000f",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.93,
+    "quality_score": 0.92,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000004d",
+    "employee_id": "10000000-0000-4000-8000-00000000000f",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.97,
+    "quality_score": 0.89,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000004e",
+    "employee_id": "10000000-0000-4000-8000-00000000000f",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.87,
+    "quality_score": 0.9,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000004f",
+    "employee_id": "10000000-0000-4000-8000-00000000000f",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "week_start_date": "2026-09-29",
+    "delivery_score": 0.77,
+    "quality_score": 0.83,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000050",
+    "employee_id": "10000000-0000-4000-8000-00000000000f",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-09-22",
+    "delivery_score": 0.87,
+    "quality_score": 0.85,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000051",
+    "employee_id": "10000000-0000-4000-8000-000000000010",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.85,
+    "quality_score": 0.9,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000052",
+    "employee_id": "10000000-0000-4000-8000-000000000010",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.76,
+    "quality_score": 0.87,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000053",
+    "employee_id": "10000000-0000-4000-8000-000000000010",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.88,
+    "quality_score": 0.98,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000054",
+    "employee_id": "10000000-0000-4000-8000-000000000010",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.84,
+    "quality_score": 0.83,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000055",
+    "employee_id": "10000000-0000-4000-8000-000000000010",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "week_start_date": "2026-09-29",
+    "delivery_score": 0.75,
+    "quality_score": 0.81,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000056",
+    "employee_id": "10000000-0000-4000-8000-000000000011",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.96,
+    "quality_score": 0.96,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000057",
+    "employee_id": "10000000-0000-4000-8000-000000000011",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.95,
+    "quality_score": 0.93,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000058",
+    "employee_id": "10000000-0000-4000-8000-000000000011",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.97,
+    "quality_score": 0.87,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000059",
+    "employee_id": "10000000-0000-4000-8000-000000000011",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.88,
+    "quality_score": 0.9,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000005a",
+    "employee_id": "10000000-0000-4000-8000-000000000011",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "week_start_date": "2026-09-29",
+    "delivery_score": 0.84,
+    "quality_score": 0.89,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000005b",
+    "employee_id": "10000000-0000-4000-8000-000000000011",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-09-22",
+    "delivery_score": 0.94,
+    "quality_score": 0.96,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000005c",
+    "employee_id": "10000000-0000-4000-8000-000000000012",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.85,
+    "quality_score": 0.87,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000005d",
+    "employee_id": "10000000-0000-4000-8000-000000000012",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.77,
+    "quality_score": 0.97,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000005e",
+    "employee_id": "10000000-0000-4000-8000-000000000012",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.83,
+    "quality_score": 0.82,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000005f",
+    "employee_id": "10000000-0000-4000-8000-000000000012",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.91,
+    "quality_score": 0.94,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000060",
+    "employee_id": "10000000-0000-4000-8000-000000000012",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "week_start_date": "2026-09-29",
+    "delivery_score": 0.9,
+    "quality_score": 0.89,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000061",
+    "employee_id": "10000000-0000-4000-8000-000000000013",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.91,
+    "quality_score": 0.92,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000062",
+    "employee_id": "10000000-0000-4000-8000-000000000013",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.87,
+    "quality_score": 0.81,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000063",
+    "employee_id": "10000000-0000-4000-8000-000000000013",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.82,
+    "quality_score": 0.85,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000064",
+    "employee_id": "10000000-0000-4000-8000-000000000013",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.87,
+    "quality_score": 0.85,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000065",
+    "employee_id": "10000000-0000-4000-8000-000000000013",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "week_start_date": "2026-09-29",
+    "delivery_score": 0.92,
+    "quality_score": 0.82,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000066",
+    "employee_id": "10000000-0000-4000-8000-000000000013",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-09-22",
+    "delivery_score": 0.89,
+    "quality_score": 0.8,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000067",
+    "employee_id": "10000000-0000-4000-8000-000000000013",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-09-15",
+    "delivery_score": 0.75,
+    "quality_score": 0.92,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000068",
+    "employee_id": "10000000-0000-4000-8000-000000000014",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.88,
+    "quality_score": 0.9,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000069",
+    "employee_id": "10000000-0000-4000-8000-000000000014",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.92,
+    "quality_score": 0.87,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000006a",
+    "employee_id": "10000000-0000-4000-8000-000000000014",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.98,
+    "quality_score": 0.81,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000006b",
+    "employee_id": "10000000-0000-4000-8000-000000000014",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.77,
+    "quality_score": 0.87,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000006c",
+    "employee_id": "10000000-0000-4000-8000-000000000014",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "week_start_date": "2026-09-29",
+    "delivery_score": 0.76,
+    "quality_score": 0.94,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000006d",
+    "employee_id": "10000000-0000-4000-8000-000000000014",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-09-22",
+    "delivery_score": 0.91,
+    "quality_score": 0.93,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000006e",
+    "employee_id": "10000000-0000-4000-8000-000000000014",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-09-15",
+    "delivery_score": 0.91,
+    "quality_score": 0.81,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000006f",
+    "employee_id": "10000000-0000-4000-8000-000000000015",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.78,
+    "quality_score": 0.83,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000070",
+    "employee_id": "10000000-0000-4000-8000-000000000015",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.77,
+    "quality_score": 0.89,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000071",
+    "employee_id": "10000000-0000-4000-8000-000000000015",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.81,
+    "quality_score": 0.99,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000072",
+    "employee_id": "10000000-0000-4000-8000-000000000015",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.77,
+    "quality_score": 0.88,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000073",
+    "employee_id": "10000000-0000-4000-8000-000000000016",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.9,
+    "quality_score": 0.88,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000074",
+    "employee_id": "10000000-0000-4000-8000-000000000016",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.89,
+    "quality_score": 0.82,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000075",
+    "employee_id": "10000000-0000-4000-8000-000000000016",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.81,
+    "quality_score": 0.82,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000076",
+    "employee_id": "10000000-0000-4000-8000-000000000016",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.78,
+    "quality_score": 0.96,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000077",
+    "employee_id": "10000000-0000-4000-8000-000000000017",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.85,
+    "quality_score": 0.88,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000078",
+    "employee_id": "10000000-0000-4000-8000-000000000017",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.86,
+    "quality_score": 0.81,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000079",
+    "employee_id": "10000000-0000-4000-8000-000000000017",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.97,
+    "quality_score": 0.89,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000007a",
+    "employee_id": "10000000-0000-4000-8000-000000000017",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.82,
+    "quality_score": 0.81,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000007b",
+    "employee_id": "10000000-0000-4000-8000-000000000017",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "week_start_date": "2026-09-29",
+    "delivery_score": 0.95,
+    "quality_score": 0.86,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000007c",
+    "employee_id": "10000000-0000-4000-8000-000000000017",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-09-22",
+    "delivery_score": 0.9,
+    "quality_score": 0.8,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000007d",
+    "employee_id": "10000000-0000-4000-8000-000000000018",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.79,
+    "quality_score": 0.92,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000007e",
+    "employee_id": "10000000-0000-4000-8000-000000000018",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.96,
+    "quality_score": 0.92,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000007f",
+    "employee_id": "10000000-0000-4000-8000-000000000018",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.98,
+    "quality_score": 0.98,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000080",
+    "employee_id": "10000000-0000-4000-8000-000000000018",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.79,
+    "quality_score": 0.85,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000081",
+    "employee_id": "10000000-0000-4000-8000-000000000018",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "week_start_date": "2026-09-29",
+    "delivery_score": 0.78,
+    "quality_score": 0.92,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000082",
+    "employee_id": "10000000-0000-4000-8000-000000000018",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-09-22",
+    "delivery_score": 0.77,
+    "quality_score": 0.95,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000083",
+    "employee_id": "10000000-0000-4000-8000-000000000019",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.91,
+    "quality_score": 0.89,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000084",
+    "employee_id": "10000000-0000-4000-8000-000000000019",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.86,
+    "quality_score": 0.87,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000085",
+    "employee_id": "10000000-0000-4000-8000-000000000019",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.98,
+    "quality_score": 0.96,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000086",
+    "employee_id": "10000000-0000-4000-8000-000000000019",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.97,
+    "quality_score": 0.99,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000087",
+    "employee_id": "10000000-0000-4000-8000-000000000019",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "week_start_date": "2026-09-29",
+    "delivery_score": 0.79,
+    "quality_score": 0.92,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000088",
+    "employee_id": "10000000-0000-4000-8000-000000000019",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-09-22",
+    "delivery_score": 0.95,
+    "quality_score": 0.89,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000089",
+    "employee_id": "10000000-0000-4000-8000-00000000001a",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.94,
+    "quality_score": 0.88,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000008a",
+    "employee_id": "10000000-0000-4000-8000-00000000001a",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.82,
+    "quality_score": 0.95,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000008b",
+    "employee_id": "10000000-0000-4000-8000-00000000001a",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.86,
+    "quality_score": 0.84,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000008c",
+    "employee_id": "10000000-0000-4000-8000-00000000001a",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.94,
+    "quality_score": 0.96,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000008d",
+    "employee_id": "10000000-0000-4000-8000-00000000001b",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.91,
+    "quality_score": 0.92,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000008e",
+    "employee_id": "10000000-0000-4000-8000-00000000001b",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.83,
+    "quality_score": 0.85,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000008f",
+    "employee_id": "10000000-0000-4000-8000-00000000001b",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.98,
+    "quality_score": 0.96,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000090",
+    "employee_id": "10000000-0000-4000-8000-00000000001b",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.92,
+    "quality_score": 0.97,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000091",
+    "employee_id": "10000000-0000-4000-8000-00000000001b",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "week_start_date": "2026-09-29",
+    "delivery_score": 0.91,
+    "quality_score": 0.94,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000092",
+    "employee_id": "10000000-0000-4000-8000-00000000001b",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-09-22",
+    "delivery_score": 0.78,
+    "quality_score": 0.94,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000093",
+    "employee_id": "10000000-0000-4000-8000-00000000001b",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-09-15",
+    "delivery_score": 0.8,
+    "quality_score": 0.81,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000094",
+    "employee_id": "10000000-0000-4000-8000-00000000001c",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.96,
+    "quality_score": 0.87,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000095",
+    "employee_id": "10000000-0000-4000-8000-00000000001c",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.81,
+    "quality_score": 0.86,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000096",
+    "employee_id": "10000000-0000-4000-8000-00000000001c",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.96,
+    "quality_score": 0.82,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000097",
+    "employee_id": "10000000-0000-4000-8000-00000000001c",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.88,
+    "quality_score": 0.84,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000098",
+    "employee_id": "10000000-0000-4000-8000-00000000001d",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.8,
+    "quality_score": 0.94,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-000000000099",
+    "employee_id": "10000000-0000-4000-8000-00000000001d",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.8,
+    "quality_score": 0.98,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000009a",
+    "employee_id": "10000000-0000-4000-8000-00000000001d",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.98,
+    "quality_score": 0.8,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000009b",
+    "employee_id": "10000000-0000-4000-8000-00000000001d",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.82,
+    "quality_score": 0.83,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000009c",
+    "employee_id": "10000000-0000-4000-8000-00000000001d",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "week_start_date": "2026-09-29",
+    "delivery_score": 0.93,
+    "quality_score": 0.84,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000009d",
+    "employee_id": "10000000-0000-4000-8000-00000000001d",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-09-22",
+    "delivery_score": 0.97,
+    "quality_score": 0.9,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000009e",
+    "employee_id": "10000000-0000-4000-8000-00000000001d",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-09-15",
+    "delivery_score": 0.78,
+    "quality_score": 0.93,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-00000000009f",
+    "employee_id": "10000000-0000-4000-8000-00000000001e",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.79,
+    "quality_score": 0.89,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000a0",
+    "employee_id": "10000000-0000-4000-8000-00000000001e",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.97,
+    "quality_score": 0.89,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000a1",
+    "employee_id": "10000000-0000-4000-8000-00000000001e",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.8,
+    "quality_score": 0.91,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000a2",
+    "employee_id": "10000000-0000-4000-8000-00000000001e",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.96,
+    "quality_score": 0.96,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000a3",
+    "employee_id": "10000000-0000-4000-8000-00000000001e",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "week_start_date": "2026-09-29",
+    "delivery_score": 0.91,
+    "quality_score": 0.82,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000a4",
+    "employee_id": "10000000-0000-4000-8000-00000000001f",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.91,
+    "quality_score": 0.92,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000a5",
+    "employee_id": "10000000-0000-4000-8000-00000000001f",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.84,
+    "quality_score": 0.98,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000a6",
+    "employee_id": "10000000-0000-4000-8000-00000000001f",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.88,
+    "quality_score": 0.85,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000a7",
+    "employee_id": "10000000-0000-4000-8000-00000000001f",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.94,
+    "quality_score": 0.92,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000a8",
+    "employee_id": "10000000-0000-4000-8000-00000000001f",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "week_start_date": "2026-09-29",
+    "delivery_score": 0.89,
+    "quality_score": 0.87,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000a9",
+    "employee_id": "10000000-0000-4000-8000-00000000001f",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-09-22",
+    "delivery_score": 0.86,
+    "quality_score": 0.98,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000aa",
+    "employee_id": "10000000-0000-4000-8000-000000000020",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.95,
+    "quality_score": 0.96,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000ab",
+    "employee_id": "10000000-0000-4000-8000-000000000020",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.77,
+    "quality_score": 0.85,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000ac",
+    "employee_id": "10000000-0000-4000-8000-000000000020",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.91,
+    "quality_score": 0.96,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000ad",
+    "employee_id": "10000000-0000-4000-8000-000000000020",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.86,
+    "quality_score": 0.95,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000ae",
+    "employee_id": "10000000-0000-4000-8000-000000000021",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.85,
+    "quality_score": 0.91,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000af",
+    "employee_id": "10000000-0000-4000-8000-000000000021",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.82,
+    "quality_score": 0.84,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000b0",
+    "employee_id": "10000000-0000-4000-8000-000000000021",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.93,
+    "quality_score": 0.82,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000b1",
+    "employee_id": "10000000-0000-4000-8000-000000000021",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.82,
+    "quality_score": 0.87,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000b2",
+    "employee_id": "10000000-0000-4000-8000-000000000021",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "week_start_date": "2026-09-29",
+    "delivery_score": 0.97,
+    "quality_score": 0.95,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000b3",
+    "employee_id": "10000000-0000-4000-8000-000000000021",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-09-22",
+    "delivery_score": 0.75,
+    "quality_score": 0.84,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000b4",
+    "employee_id": "10000000-0000-4000-8000-000000000021",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-09-15",
+    "delivery_score": 0.76,
+    "quality_score": 0.91,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000b5",
+    "employee_id": "10000000-0000-4000-8000-000000000022",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.81,
+    "quality_score": 0.92,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000b6",
+    "employee_id": "10000000-0000-4000-8000-000000000022",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "week_start_date": "2026-10-20",
+    "delivery_score": 0.96,
+    "quality_score": 0.96,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000b7",
+    "employee_id": "10000000-0000-4000-8000-000000000022",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "week_start_date": "2026-10-13",
+    "delivery_score": 0.94,
+    "quality_score": 0.84,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000b8",
+    "employee_id": "10000000-0000-4000-8000-000000000022",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "week_start_date": "2026-10-06",
+    "delivery_score": 0.76,
+    "quality_score": 0.96,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000b9",
+    "employee_id": "10000000-0000-4000-8000-000000000022",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "week_start_date": "2026-09-29",
+    "delivery_score": 0.91,
+    "quality_score": 0.97,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000ba",
+    "employee_id": "10000000-0000-4000-8000-000000000022",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-09-22",
+    "delivery_score": 0.75,
+    "quality_score": 0.92,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000bb",
+    "employee_id": "10000000-0000-4000-8000-000000000023",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.79,
+    "quality_score": 0.81,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000bc",
+    "employee_id": "10000000-0000-4000-8000-000000000025",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.92,
+    "quality_score": 0.81,
+    "completion_status": "COMPLETED"
+  },
+  {
+    "id": "70000000-0000-4000-8000-0000000000bd",
+    "employee_id": "10000000-0000-4000-8000-000000000027",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "week_start_date": "2026-10-27",
+    "delivery_score": 0.94,
+    "quality_score": 0.91,
+    "completion_status": "COMPLETED"
+  }
+]

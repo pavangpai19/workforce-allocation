@@ -1,0 +1,5 @@
+Model,Task_Type,Algorithm,Target,Metric_1,Metric_2,Metric_3,Metric_4,Metric_5
+Performance Model,Regression,RandomForestRegressor,actual_performance_score,MAE: 0.0816,RMSE: 0.0956,R²: 0.4768,-,-
+Completion Model,Regression,GradientBoostingRegressor,actual_hours,MAE: 6.1628,RMSE: 8.1962,R²: 0.9434,-,-
+Burnout Model (Primary),Classification,LogisticRegression,burnout_high_risk,Accuracy: 0.9950,Precision: 1.0000,Recall: 0.9867,F1: 0.9933,ROC-AUC: 0.9997
+Burnout Model (Tree),Classification,RandomForestClassifier,burnout_high_risk,Accuracy: 1.0000,Precision: 1.0000,Recall: 1.0000,F1: 1.0000,ROC-AUC: 1.0000

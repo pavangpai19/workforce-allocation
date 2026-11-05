@@ -1,0 +1,142 @@
+[
+  {
+    "id": "20000000-0000-4000-8000-000000000001",
+    "name": "Cloud Architecture",
+    "category": "Cloud"
+  },
+  {
+    "id": "20000000-0000-4000-8000-000000000002",
+    "name": "Kubernetes & Containers",
+    "category": "Cloud"
+  },
+  {
+    "id": "20000000-0000-4000-8000-000000000003",
+    "name": "Distributed Systems",
+    "category": "Cloud"
+  },
+  {
+    "id": "20000000-0000-4000-8000-000000000004",
+    "name": "Python / Fast-API",
+    "category": "Cloud"
+  },
+  {
+    "id": "20000000-0000-4000-8000-000000000005",
+    "name": "TypeScript & React",
+    "category": "Cloud"
+  },
+  {
+    "id": "20000000-0000-4000-8000-000000000006",
+    "name": "Go Systems Programming",
+    "category": "Backend"
+  },
+  {
+    "id": "20000000-0000-4000-8000-000000000007",
+    "name": "PostgreSQL & Optimization",
+    "category": "Backend"
+  },
+  {
+    "id": "20000000-0000-4000-8000-000000000008",
+    "name": "CI/CD & DevOps Automation",
+    "category": "Backend"
+  },
+  {
+    "id": "20000000-0000-4000-8000-000000000009",
+    "name": "Apache Kafka & Streaming",
+    "category": "Backend"
+  },
+  {
+    "id": "20000000-0000-4000-8000-00000000000a",
+    "name": "Microservices Architecture",
+    "category": "Backend"
+  },
+  {
+    "id": "20000000-0000-4000-8000-00000000000b",
+    "name": "Data Engineering & Spark",
+    "category": "DevOps"
+  },
+  {
+    "id": "20000000-0000-4000-8000-00000000000c",
+    "name": "MLOps & Pipeline Engineering",
+    "category": "DevOps"
+  },
+  {
+    "id": "20000000-0000-4000-8000-00000000000d",
+    "name": "Infrastructure as Code (Terraform)",
+    "category": "DevOps"
+  },
+  {
+    "id": "20000000-0000-4000-8000-00000000000e",
+    "name": "Application Security & IAM",
+    "category": "DevOps"
+  },
+  {
+    "id": "20000000-0000-4000-8000-00000000000f",
+    "name": "GraphQL & API Gateway",
+    "category": "DevOps"
+  },
+  {
+    "id": "20000000-0000-4000-8000-000000000010",
+    "name": "Observability & OpenTelemetry",
+    "category": "Data"
+  },
+  {
+    "id": "20000000-0000-4000-8000-000000000011",
+    "name": "Site Reliability Engineering (SRE)",
+    "category": "Data"
+  },
+  {
+    "id": "20000000-0000-4000-8000-000000000012",
+    "name": "Redis & Distributed Caching",
+    "category": "Data"
+  },
+  {
+    "id": "20000000-0000-4000-8000-000000000013",
+    "name": "Network & VPC Security",
+    "category": "Data"
+  },
+  {
+    "id": "20000000-0000-4000-8000-000000000014",
+    "name": "Front-End Web Performance",
+    "category": "Data"
+  },
+  {
+    "id": "20000000-0000-4000-8000-000000000015",
+    "name": "Linux Kernel & Systems Internals",
+    "category": "Security"
+  },
+  {
+    "id": "20000000-0000-4000-8000-000000000016",
+    "name": "Natural Language Processing",
+    "category": "Security"
+  },
+  {
+    "id": "20000000-0000-4000-8000-000000000017",
+    "name": "Cloud Security & Compliance",
+    "category": "Security"
+  },
+  {
+    "id": "20000000-0000-4000-8000-000000000018",
+    "name": "AWS Cloud Architecture",
+    "category": "Security"
+  },
+  {
+    "id": "20000000-0000-4000-8000-000000000019",
+    "name": "GCP Infrastructure",
+    "category": "Security"
+  },
+  {
+    "id": "20000000-0000-4000-8000-00000000001a",
+    "name": "High-Availability Systems",
+    "category": "Security"
+  },
+  {
+    "id": "20000000-0000-4000-8000-00000000001b",
+    "name": "Full-Stack Web Development",
+    "category": "Security"
+  },
+  {
+    "id": "20000000-0000-4000-8000-00000000001c",
+    "name": "Event-Driven Architecture",
+    "category": "Security"
+  }
+]

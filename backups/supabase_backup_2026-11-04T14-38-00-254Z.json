@@ -1,0 +1,242 @@
+{
+  "metadata": {
+    "url": "https://fzzmwkgcnlrynxnhizbh.supabase.co",
+    "backup_timestamp": "2026-11-04T14:38:00.257Z",
+    "tables_count": 21
+  },
+  "tables": {
+    "skills": {
+      "count": 2,
+      "rows": [
+        {
+          "id": "b4cc67f8-1eb1-4e9a-8980-f2a67584b3fc",
+          "name": "React"
+        },
+        {
+          "id": "45c21a7c-1697-48ba-bf34-d2bdab25d501",
+          "name": "Python"
+        }
+      ]
+    },
+    "employees": {
+      "count": 2,
+      "rows": [
+        {
+          "id": "32aed4c6-1d27-48cb-943a-3d28900d8992",
+          "name": "Pavan",
+          "email": "pavan@test.com",
+          "weekly_capacity_hours": 40,
+          "efficiency_score": 1,
+          "reliability_score": 1,
+          "created_at": "2026-02-22T04:50:40.74483+00:00"
+        },
+        {
+          "id": "04ca3551-d0df-45ab-851a-7e8d23aad45e",
+          "name": "Rahul",
+          "email": "rahul@test.com",
+          "weekly_capacity_hours": 35,
+          "efficiency_score": 1,
+          "reliability_score": 1,
+          "created_at": "2026-02-22T05:07:07.846205+00:00"
+        }
+      ]
+    },
+    "employee_auth": {
+      "count": 0,
+      "rows": []
+    },
+    "employee_profiles": {
+      "count": 0,
+      "rows": []
+    },
+    "employee_skills": {
+      "count": 2,
+      "rows": [
+        {
+          "employee_id": "32aed4c6-1d27-48cb-943a-3d28900d8992",
+          "skill_id": "45c21a7c-1697-48ba-bf34-d2bdab25d501",
+          "proficiency_level": 4
+        },
+        {
+          "employee_id": "32aed4c6-1d27-48cb-943a-3d28900d8992",
+          "skill_id": "b4cc67f8-1eb1-4e9a-8980-f2a67584b3fc",
+          "proficiency_level": 4
+        }
+      ]
+    },
+    "employee_knowledge": {
+      "count": 0,
+      "rows": []
+    },
+    "ml_predictions": {
+      "count": 0,
+      "rows": []
+    },
+    "projects": {
+      "count": 2,
+      "rows": [
+        {
+          "id": "d0032f98-9087-4aeb-841e-6b84b39c6151",
+          "name": "AI Workforce Engine",
+          "project_priority": 5,
+          "estimated_total_hours": 200,
+          "start_date": "2026-02-25",
+          "end_date": "2026-03-30",
+          "status": "PLANNED",
+          "created_at": "2026-02-22T05:16:14.30453+00:00"
+        },
+        {
+          "id": "02a90ed6-e4a6-4e3b-9950-69467c7d764c",
+          "name": "AI Workforce Engine",
+          "project_priority": 5,
+          "estimated_total_hours": 200,
+          "start_date": "2026-02-25",
+          "end_date": "2026-03-30",
+          "status": "PLANNED",
+          "created_at": "2026-02-25T09:33:53.100964+00:00"
+        }
+      ]
+    },
+    "project_staffing_requirements": {
+      "count": 0,
+      "rows": []
+    },
+    "tasks": {
+      "count": 0,
+      "rows": []
+    },
+    "task_history": {
+      "count": 0,
+      "rows": []
+    },
+    "allocation_proposals": {
+      "count": 0,
+      "rows": []
+    },
+    "allocation_proposal_members": {
+      "count": 0,
+      "rows": []
+    },
+    "allocations": {
+      "count": 3,
+      "rows": [
+        {
+          "id": "18de9afe-d0be-473d-b1e1-622d6fa1e52e",
+          "employee_id": "32aed4c6-1d27-48cb-943a-3d28900d8992",
+          "project_id": "d0032f98-9087-4aeb-841e-6b84b39c6151",
+          "week_start_date": "2026-02-24",
+          "allocated_hours": 20,
+          "status": "PROPOSED",
+          "created_at": "2026-02-22T05:50:07.919199+00:00",
+          "proposal_id": null,
+          "proposal_member_id": null,
+          "staffing_requirement_id": null,
+          "assigned_role": null,
+          "allocated_hours_per_week": null,
+          "allocation_percentage": null,
+          "start_date": null,
+          "planned_end_date": null,
+          "actual_end_date": null,
+          "released_at": null
+        },
+        {
+          "id": "7237662c-09dc-4fb8-ba13-31f6fe3edaca",
+          "employee_id": "32aed4c6-1d27-48cb-943a-3d28900d8992",
+          "project_id": "02a90ed6-e4a6-4e3b-9950-69467c7d764c",
+          "week_start_date": "2026-02-24",
+          "allocated_hours": 10,
+          "status": "PROPOSED",
+          "created_at": "2026-02-25T09:37:01.304318+00:00",
+          "proposal_id": null,
+          "proposal_member_id": null,
+          "staffing_requirement_id": null,
+          "assigned_role": null,
+          "allocated_hours_per_week": null,
+          "allocation_percentage": null,
+          "start_date": null,
+          "planned_end_date": null,
+          "actual_end_date": null,
+          "released_at": null
+        },
+        {
+          "id": "1e5bf114-6e7a-4b78-8dfd-78b06debb74e",
+          "employee_id": "32aed4c6-1d27-48cb-943a-3d28900d8992",
+          "project_id": "02a90ed6-e4a6-4e3b-9950-69467c7d764c",
+          "week_start_date": "2026-02-24",
+          "allocated_hours": 10,
+          "status": "PROPOSED",
+          "created_at": "2026-03-04T07:50:55.639632+00:00",
+          "proposal_id": null,
+          "proposal_member_id": null,
+          "staffing_requirement_id": null,
+          "assigned_role": null,
+          "allocated_hours_per_week": null,
+          "allocation_percentage": null,
+          "start_date": null,
+          "planned_end_date": null,
+          "actual_end_date": null,
+          "released_at": null
+        }
+      ]
+    },
+    "employee_performance": {
+      "count": 2,
+      "rows": [
+        {
+          "id": "fb648c59-1fb3-4134-9aaa-f78e00321ed3",
+          "employee_id": "32aed4c6-1d27-48cb-943a-3d28900d8992",
+          "project_id": "02a90ed6-e4a6-4e3b-9950-69467c7d764c",
+          "week_start_date": "2026-02-24",
+          "delivery_score": 0.9,
+          "quality_score": 0.8,
+          "completion_status": "COMPLETED",
+          "created_at": "2026-02-25T09:46:54.823765"
+        },
+        {
+          "id": "29c562ec-1cc5-4f63-a2df-5d4ca33a1bd3",
+          "employee_id": "32aed4c6-1d27-48cb-943a-3d28900d8992",
+          "project_id": "02a90ed6-e4a6-4e3b-9950-69467c7d764c",
+          "week_start_date": "2026-02-24",
+          "delivery_score": 0.95,
+          "quality_score": 0.9,
+          "completion_status": "COMPLETED",
+          "created_at": "2026-02-25T10:24:01.922985"
+        }
+      ]
+    },
+    "manager_feedback": {
+      "count": 0,
+      "rows": []
+    },
+    "decision_weights": {
+      "count": 1,
+      "rows": [
+        {
+          "id": "29a9f570-7dd9-4dca-ad01-9ec7a3fc048f",
+          "fairness_weight": 0.3,
+          "performance_weight": 0.4,
+          "skill_weight": 0.3,
+          "updated_at": "2026-04-21T06:04:54.770286",
+          "knowledge_weight": 0.15,
+          "risk_weight": 0.1
+        }
+      ]
+    },
+    "allocation_decisions": {
+      "count": 0,
+      "rows": []
+    },
+    "decision_logs": {
+      "count": 0,
+      "rows": []
+    },
+    "decision_feedback": {
+      "count": 0,
+      "rows": []
+    },
+    "alerts": {
+      "count": 0,
+      "rows": []
+    }
+  }
+}

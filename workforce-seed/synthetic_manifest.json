@@ -1,0 +1,152 @@
+{
+  "manifest_version": "3.0.0",
+  "dataset_name": "WorkforceIQ Synthetic Enterprise Dataset (ApexCore Technologies)",
+  "generated_at": "2026-11-04T16:22:00.000Z",
+  "reference_date": "2026-11-04",
+  "random_seed": 20261104,
+  "compliance": {
+    "total_tables_covered": 21,
+    "foreign_keys_satisfied": 33,
+    "email_rfc_reserved": "@workforce.example",
+    "execution_safety": "Seeded directly to live Supabase PostgreSQL database with 100% verified foreign key integrity",
+    "auth_integration": "Authentic Supabase Auth (auth.users) accounts created with real UUID linkages"
+  },
+  "record_counts": {
+    "skills": 28,
+    "employees": 40,
+    "employee_auth": 7,
+    "employee_profiles": 40,
+    "employee_skills": 167,
+    "employee_knowledge": 40,
+    "ml_predictions": 40,
+    "projects": 8,
+    "project_staffing_requirements": 20,
+    "tasks": 140,
+    "task_history": 84,
+    "allocation_proposals": 3,
+    "allocation_proposal_members": 12,
+    "allocations": 24,
+    "employee_performance": 154,
+    "manager_feedback": 37,
+    "decision_weights": 1,
+    "allocation_decisions": 30,
+    "decision_logs": 20,
+    "decision_feedback": 15,
+    "alerts": 5,
+    "total_records": 915
+  },
+  "demo_authentication_identities": [
+    {
+      "name": "Elena Rostova",
+      "role": "MANAGER",
+      "designation": "VP of Engineering",
+      "email": "elena.rostova@workforce.example",
+      "password": "ApexPass2026!",
+      "employee_id": "10000000-0000-4000-8000-000000000001"
+    },
+    {
+      "name": "Marcus Vance",
+      "role": "MANAGER",
+      "designation": "Director of Engineering Operations",
+      "email": "marcus.vance@workforce.example",
+      "password": "ApexPass2026!",
+      "employee_id": "10000000-0000-4000-8000-000000000002"
+    },
+    {
+      "name": "Devansh Sharma",
+      "role": "EMPLOYEE",
+      "designation": "Principal Distributed Systems Lead",
+      "email": "devansh.sharma@workforce.example",
+      "password": "ApexPass2026!",
+      "employee_id": "10000000-0000-4000-8000-000000000003"
+    },
+    {
+      "name": "Sarah Jenkins",
+      "role": "EMPLOYEE",
+      "designation": "Staff Frontend Architect",
+      "email": "sarah.jenkins@workforce.example",
+      "password": "ApexPass2026!",
+      "employee_id": "10000000-0000-4000-8000-000000000004"
+    },
+    {
+      "name": "Liam O'Connor",
+      "role": "EMPLOYEE",
+      "designation": "Senior Backend Engineer",
+      "email": "liam.oconnor@workforce.example",
+      "password": "ApexPass2026!",
+      "employee_id": "10000000-0000-4000-8000-000000000005"
+    },
+    {
+      "name": "Lucas Silva",
+      "role": "EMPLOYEE",
+      "designation": "Junior Cloud Engineer",
+      "email": "lucas.silva@workforce.example",
+      "password": "ApexPass2026!",
+      "employee_id": "10000000-0000-4000-8000-00000000000b"
+    },
+    {
+      "name": "Alex Rivera",
+      "role": "ADMIN",
+      "designation": "Platform Administrator",
+      "email": "alex.rivera@workforce.example",
+      "password": "ApexPass2026!",
+      "employee_id": "10000000-0000-4000-8000-000000000028"
+    }
+  ],
+  "demonstration_scenarios": [
+    {
+      "scenario": "Scenario 1: Ideal Candidate Match",
+      "employee": "Devansh Sharma",
+      "project": "Apollo NextGen Core Platform",
+      "outcome": "Score 0.95, 100% capacity available, verified Go/K8s expertise"
+    },
+    {
+      "scenario": "Scenario 2: Low Proficiency Rejection",
+      "employee": "Lucas Silva",
+      "project": "Sentinel Fraud Detector",
+      "outcome": "Rejection score 0.24 due to missing PyTorch requirement"
+    },
+    {
+      "scenario": "Scenario 3: Capacity Constraint Enforcement",
+      "employee": "Sarah Jenkins",
+      "project": "Nova Financial Ledger",
+      "outcome": "Blocked from 3rd project due to current 50h/week overallocation"
+    },
+    {
+      "scenario": "Scenario 4: Deliberate Over-Allocation & Burnout Alert",
+      "employee": "Sarah Jenkins & Viktor Meyer",
+      "project": "Apollo + Orion / Apollo + Nova",
+      "outcome": "Active CRITICAL CAPACITY_EXCEEDED and BURNOUT_RISK alerts generated"
+    },
+    {
+      "scenario": "Scenario 5: Cold-Start Handling",
+      "employee": "Lucas Silva",
+      "project": "Apollo Onboarding",
+      "outcome": "Zero completed tasks handled gracefully via default prior distributions"
+    },
+    {
+      "scenario": "Scenario 6: Staffing Gap Detection",
+      "employee": "External Recruiting",
+      "project": "Pulse IoT Telemetry Pipeline",
+      "outcome": "Active STAFFING_GAP alert generated for missing IoT Go engineers"
+    },
+    {
+      "scenario": "Scenario 7: Multi-Member Proposal Sign-off",
+      "employee": "Elena Rostova (Reviewer)",
+      "project": "Apollo Core Proposal",
+      "outcome": "Approved 4-member proposal with attached audit commentary"
+    },
+    {
+      "scenario": "Scenario 8: Project Release & Offboarding",
+      "employee": "Christian Bale, Liam O'Connor",
+      "project": "Aegis Security Gateway",
+      "outcome": "Status WORK_COMPLETED, released_at timestamp populated, capacity replenished"
+    },
+    {
+      "scenario": "Scenario 9: Explainable Decision Audit Trail",
+      "employee": "Multi-engineer audit",
+      "project": "Multiple",
+      "outcome": "Full formula breakdown preserved across fairness, skill, perf, and risk"
+    }
+  ]
+}

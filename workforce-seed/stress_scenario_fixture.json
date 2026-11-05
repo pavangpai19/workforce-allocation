@@ -1,0 +1,57 @@
+{
+  "fixture_name": "WorkforceIQ Stress Overload Scenario",
+  "status": "DISABLED_BY_DEFAULT",
+  "description": "Optional stress-test allocations and alerts that induce capacity overflow for testing re-balancing workflows.",
+  "overload_allocations": [
+    {
+      "id": "55000000-0000-4000-8000-000000000001",
+      "employee_id": "10000000-0000-4000-8000-000000000001",
+      "project_id": "30000000-0000-4000-8000-000000000001",
+      "allocated_hours": 10,
+      "allocated_hours_per_week": 10,
+      "week_start_date": "2026-11-02",
+      "status": "ACTIVE",
+      "assigned_role": "Senior Cloud Architect",
+      "stress_overload_note": "Pushes employee workload to 48h (exceeding 40h capacity)"
+    },
+    {
+      "id": "55000000-0000-4000-8000-000000000002",
+      "employee_id": "10000000-0000-4000-8000-000000000002",
+      "project_id": "30000000-0000-4000-8000-000000000002",
+      "allocated_hours": 10,
+      "allocated_hours_per_week": 10,
+      "week_start_date": "2026-11-02",
+      "status": "ACTIVE",
+      "assigned_role": "Staff Backend Engineer",
+      "stress_overload_note": "Pushes employee workload to 46h (exceeding 40h capacity)"
+    }
+  ],
+  "overload_alerts": [
+    {
+      "id": "95000000-0000-4000-8000-000000000001",
+      "type": "CAPACITY_EXCEEDED",
+      "severity": "CRITICAL",
+      "message": "Capacity exceeded: Aarav Sharma is allocated 48h/40h (120% capacity).",
+      "status": "ACTIVE",
+      "employee_id": "10000000-0000-4000-8000-000000000001",
+      "metadata": {
+        "total_allocated_hours": 48,
+        "max_capacity_hours": 40,
+        "utilization_percentage": 120
+      }
+    },
+    {
+      "id": "95000000-0000-4000-8000-000000000002",
+      "type": "CAPACITY_EXCEEDED",
+      "severity": "CRITICAL",
+      "message": "Capacity exceeded: Priya Patel is allocated 46h/40h (115% capacity).",
+      "status": "ACTIVE",
+      "employee_id": "10000000-0000-4000-8000-000000000002",
+      "metadata": {
+        "total_allocated_hours": 46,
+        "max_capacity_hours": 40,
+        "utilization_percentage": 115
+      }
+    }
+  ]
+}

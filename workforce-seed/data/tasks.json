@@ -1,0 +1,2729 @@
+[
+  {
+    "id": "61000000-0000-4000-8000-000000000001",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 38,
+    "created_at": "2026-08-15T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000002",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 20,
+    "created_at": "2026-08-06T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000003",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 16,
+    "created_at": "2026-06-05T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000004",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 24,
+    "created_at": "2026-08-28T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000005",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 28,
+    "created_at": "2026-09-04T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000006",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 36,
+    "created_at": "2026-04-29T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000007",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 19,
+    "created_at": "2026-09-12T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000008",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Migrate asynchronous jobs to Redis Streams",
+    "description": "Implementation deliverable for migrate asynchronous jobs to redis streams in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "COMPLETED",
+    "estimated_hours": 32,
+    "created_at": "2026-06-19T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000009",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement zero-downtime schema migration verification",
+    "description": "Implementation deliverable for implement zero-downtime schema migration verification in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 36,
+    "created_at": "2026-05-26T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000000a",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "title": "Benchmarking gRPC payload serialization latency",
+    "description": "Implementation deliverable for benchmarking grpc payload serialization latency in Core Payment Gateway Hardening.",
+    "status": "COMPLETED",
+    "estimated_hours": 34,
+    "created_at": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000000b",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 22,
+    "created_at": "2026-09-07T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000000c",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 22,
+    "created_at": "2026-07-11T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000000d",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 16,
+    "created_at": "2026-10-03T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000000e",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 16,
+    "created_at": "2026-05-06T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000000f",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 26,
+    "created_at": "2026-08-23T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000010",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 37,
+    "created_at": "2026-09-04T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000011",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 31,
+    "created_at": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000012",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Migrate asynchronous jobs to Redis Streams",
+    "description": "Implementation deliverable for migrate asynchronous jobs to redis streams in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "COMPLETED",
+    "estimated_hours": 28,
+    "created_at": "2026-06-09T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000013",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 27,
+    "created_at": "2026-07-31T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000014",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 14,
+    "created_at": "2026-08-30T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000015",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 15,
+    "created_at": "2026-05-09T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000016",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 18,
+    "created_at": "2026-05-20T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000017",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 32,
+    "created_at": "2026-08-28T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000018",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 17,
+    "created_at": "2026-08-02T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000019",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 18,
+    "created_at": "2026-05-01T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000001a",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 12,
+    "created_at": "2026-05-01T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000001b",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 33,
+    "created_at": "2026-08-22T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000001c",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 22,
+    "created_at": "2026-06-20T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000001d",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 25,
+    "created_at": "2026-06-17T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000001e",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 27,
+    "created_at": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000001f",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 15,
+    "created_at": "2026-10-01T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000020",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 21,
+    "created_at": "2026-08-20T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000021",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Migrate asynchronous jobs to Redis Streams",
+    "description": "Implementation deliverable for migrate asynchronous jobs to redis streams in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "COMPLETED",
+    "estimated_hours": 38,
+    "created_at": "2026-07-17T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000022",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 12,
+    "created_at": "2026-08-09T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000023",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 12,
+    "created_at": "2026-08-21T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000024",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 15,
+    "created_at": "2026-09-19T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000025",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 37,
+    "created_at": "2026-05-08T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000026",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 29,
+    "created_at": "2026-05-14T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000027",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 19,
+    "created_at": "2026-06-05T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000028",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 38,
+    "created_at": "2026-10-05T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000029",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 32,
+    "created_at": "2026-09-17T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000002a",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 17,
+    "created_at": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000002b",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 25,
+    "created_at": "2026-09-23T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000002c",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 33,
+    "created_at": "2026-04-26T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000002d",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 35,
+    "created_at": "2026-07-08T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000002e",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 25,
+    "created_at": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000002f",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 23,
+    "created_at": "2026-08-21T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000030",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Migrate asynchronous jobs to Redis Streams",
+    "description": "Implementation deliverable for migrate asynchronous jobs to redis streams in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "COMPLETED",
+    "estimated_hours": 38,
+    "created_at": "2026-09-09T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000031",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement zero-downtime schema migration verification",
+    "description": "Implementation deliverable for implement zero-downtime schema migration verification in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 34,
+    "created_at": "2026-10-06T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000032",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 21,
+    "created_at": "2026-07-09T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000033",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 20,
+    "created_at": "2026-09-06T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000034",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 15,
+    "created_at": "2026-08-25T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000035",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 23,
+    "created_at": "2026-05-12T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000036",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 27,
+    "created_at": "2026-08-10T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000037",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 24,
+    "created_at": "2026-05-08T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000038",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 29,
+    "created_at": "2026-10-04T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000039",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Migrate asynchronous jobs to Redis Streams",
+    "description": "Implementation deliverable for migrate asynchronous jobs to redis streams in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "COMPLETED",
+    "estimated_hours": 28,
+    "created_at": "2026-07-04T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000003a",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 31,
+    "created_at": "2026-09-23T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000003b",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 31,
+    "created_at": "2026-04-29T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000003c",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 23,
+    "created_at": "2026-06-28T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000003d",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 23,
+    "created_at": "2026-07-31T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000003e",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 22,
+    "created_at": "2026-07-24T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000003f",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 36,
+    "created_at": "2026-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000040",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 15,
+    "created_at": "2026-09-03T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000041",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Migrate asynchronous jobs to Redis Streams",
+    "description": "Implementation deliverable for migrate asynchronous jobs to redis streams in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "COMPLETED",
+    "estimated_hours": 26,
+    "created_at": "2026-06-25T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000042",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 13,
+    "created_at": "2026-08-18T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000043",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 37,
+    "created_at": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000044",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 19,
+    "created_at": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000045",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 12,
+    "created_at": "2026-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000046",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 18,
+    "created_at": "2026-05-18T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000047",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 18,
+    "created_at": "2026-07-19T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000048",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 12,
+    "created_at": "2026-08-11T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000049",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Migrate asynchronous jobs to Redis Streams",
+    "description": "Implementation deliverable for migrate asynchronous jobs to redis streams in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "COMPLETED",
+    "estimated_hours": 30,
+    "created_at": "2026-08-26T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000004a",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 34,
+    "created_at": "2026-07-26T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000004b",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 14,
+    "created_at": "2026-09-16T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000004c",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 23,
+    "created_at": "2026-09-09T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000004d",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 18,
+    "created_at": "2026-08-19T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000004e",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 29,
+    "created_at": "2026-05-05T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000004f",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 22,
+    "created_at": "2026-05-10T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000050",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 38,
+    "created_at": "2026-07-16T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000051",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Migrate asynchronous jobs to Redis Streams",
+    "description": "Implementation deliverable for migrate asynchronous jobs to redis streams in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "COMPLETED",
+    "estimated_hours": 32,
+    "created_at": "2026-09-03T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000052",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement zero-downtime schema migration verification",
+    "description": "Implementation deliverable for implement zero-downtime schema migration verification in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 29,
+    "created_at": "2026-09-09T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000053",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "title": "Benchmarking gRPC payload serialization latency",
+    "description": "Implementation deliverable for benchmarking grpc payload serialization latency in Core Payment Gateway Hardening.",
+    "status": "COMPLETED",
+    "estimated_hours": 32,
+    "created_at": "2026-08-17T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000054",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 15,
+    "created_at": "2026-05-11T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000055",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 34,
+    "created_at": "2026-08-09T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000056",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 24,
+    "created_at": "2026-08-22T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000057",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 21,
+    "created_at": "2026-09-21T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000058",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 25,
+    "created_at": "2026-07-18T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000059",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 22,
+    "created_at": "2026-09-27T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000005a",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 33,
+    "created_at": "2026-07-26T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000005b",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Migrate asynchronous jobs to Redis Streams",
+    "description": "Implementation deliverable for migrate asynchronous jobs to redis streams in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "COMPLETED",
+    "estimated_hours": 15,
+    "created_at": "2026-06-05T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000005c",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement zero-downtime schema migration verification",
+    "description": "Implementation deliverable for implement zero-downtime schema migration verification in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 12,
+    "created_at": "2026-06-21T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000005d",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 27,
+    "created_at": "2026-07-12T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000005e",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 33,
+    "created_at": "2026-07-27T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000005f",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 17,
+    "created_at": "2026-09-20T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000060",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 37,
+    "created_at": "2026-09-21T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000061",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 33,
+    "created_at": "2026-09-23T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000062",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 34,
+    "created_at": "2026-04-23T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000063",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 33,
+    "created_at": "2026-04-27T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000064",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Migrate asynchronous jobs to Redis Streams",
+    "description": "Implementation deliverable for migrate asynchronous jobs to redis streams in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "COMPLETED",
+    "estimated_hours": 13,
+    "created_at": "2026-06-01T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000065",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement zero-downtime schema migration verification",
+    "description": "Implementation deliverable for implement zero-downtime schema migration verification in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 30,
+    "created_at": "2026-05-17T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000066",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "title": "Benchmarking gRPC payload serialization latency",
+    "description": "Implementation deliverable for benchmarking grpc payload serialization latency in Core Payment Gateway Hardening.",
+    "status": "COMPLETED",
+    "estimated_hours": 24,
+    "created_at": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000067",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 24,
+    "created_at": "2026-06-05T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000068",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 31,
+    "created_at": "2026-05-11T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000069",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 33,
+    "created_at": "2026-09-21T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000006a",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 23,
+    "created_at": "2026-08-09T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000006b",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 34,
+    "created_at": "2026-07-28T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000006c",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 25,
+    "created_at": "2026-05-06T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000006d",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 32,
+    "created_at": "2026-08-26T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000006e",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Migrate asynchronous jobs to Redis Streams",
+    "description": "Implementation deliverable for migrate asynchronous jobs to redis streams in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "COMPLETED",
+    "estimated_hours": 18,
+    "created_at": "2026-05-03T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000006f",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 26,
+    "created_at": "2026-05-12T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000070",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 32,
+    "created_at": "2026-06-27T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000071",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 23,
+    "created_at": "2026-05-01T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000072",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 29,
+    "created_at": "2026-05-05T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000073",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 28,
+    "created_at": "2026-06-02T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000074",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 15,
+    "created_at": "2026-05-26T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000075",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 12,
+    "created_at": "2026-08-25T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000076",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 25,
+    "created_at": "2026-08-21T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000077",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 33,
+    "created_at": "2026-09-26T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000078",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 28,
+    "created_at": "2026-07-16T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000079",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 21,
+    "created_at": "2026-07-27T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000007a",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 21,
+    "created_at": "2026-10-10T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000007b",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 17,
+    "created_at": "2026-06-09T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000007c",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 31,
+    "created_at": "2026-08-11T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000007d",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Migrate asynchronous jobs to Redis Streams",
+    "description": "Implementation deliverable for migrate asynchronous jobs to redis streams in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "COMPLETED",
+    "estimated_hours": 30,
+    "created_at": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000007e",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 26,
+    "created_at": "2026-09-11T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000007f",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 12,
+    "created_at": "2026-07-06T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000080",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 17,
+    "created_at": "2026-07-29T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000081",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 18,
+    "created_at": "2026-06-18T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000082",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 21,
+    "created_at": "2026-09-11T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000083",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 19,
+    "created_at": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000084",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 28,
+    "created_at": "2026-04-26T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000085",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Migrate asynchronous jobs to Redis Streams",
+    "description": "Implementation deliverable for migrate asynchronous jobs to redis streams in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "COMPLETED",
+    "estimated_hours": 26,
+    "created_at": "2026-08-29T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000086",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 38,
+    "created_at": "2026-08-25T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000087",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 32,
+    "created_at": "2026-06-02T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000088",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 17,
+    "created_at": "2026-05-29T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000089",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 30,
+    "created_at": "2026-06-10T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000008a",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 37,
+    "created_at": "2026-07-27T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000008b",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 22,
+    "created_at": "2026-09-27T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000008c",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 22,
+    "created_at": "2026-06-22T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000008d",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 31,
+    "created_at": "2026-06-21T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000008e",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 37,
+    "created_at": "2026-06-07T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000008f",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 15,
+    "created_at": "2026-08-02T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000090",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 30,
+    "created_at": "2026-09-20T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000091",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 15,
+    "created_at": "2026-08-31T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000092",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 23,
+    "created_at": "2026-09-21T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000093",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 30,
+    "created_at": "2026-05-01T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000094",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Migrate asynchronous jobs to Redis Streams",
+    "description": "Implementation deliverable for migrate asynchronous jobs to redis streams in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "COMPLETED",
+    "estimated_hours": 24,
+    "created_at": "2026-09-18T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000095",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 17,
+    "created_at": "2026-06-18T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000096",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 27,
+    "created_at": "2026-08-08T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000097",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 29,
+    "created_at": "2026-07-23T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000098",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 38,
+    "created_at": "2026-05-28T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000099",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 36,
+    "created_at": "2026-09-15T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000009a",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 24,
+    "created_at": "2026-04-30T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000009b",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 17,
+    "created_at": "2026-08-16T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000009c",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Migrate asynchronous jobs to Redis Streams",
+    "description": "Implementation deliverable for migrate asynchronous jobs to redis streams in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "COMPLETED",
+    "estimated_hours": 37,
+    "created_at": "2026-04-30T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000009d",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement zero-downtime schema migration verification",
+    "description": "Implementation deliverable for implement zero-downtime schema migration verification in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 34,
+    "created_at": "2026-09-25T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000009e",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "title": "Benchmarking gRPC payload serialization latency",
+    "description": "Implementation deliverable for benchmarking grpc payload serialization latency in Core Payment Gateway Hardening.",
+    "status": "COMPLETED",
+    "estimated_hours": 36,
+    "created_at": "2026-07-09T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000009f",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 13,
+    "created_at": "2026-08-10T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000a0",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 26,
+    "created_at": "2026-08-11T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000a1",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 33,
+    "created_at": "2026-05-27T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000a2",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 25,
+    "created_at": "2026-06-09T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000a3",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 19,
+    "created_at": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000a4",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 30,
+    "created_at": "2026-06-02T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000a5",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 19,
+    "created_at": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000a6",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Migrate asynchronous jobs to Redis Streams",
+    "description": "Implementation deliverable for migrate asynchronous jobs to redis streams in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "COMPLETED",
+    "estimated_hours": 35,
+    "created_at": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000a7",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 31,
+    "created_at": "2026-08-11T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000a8",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 13,
+    "created_at": "2026-06-26T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000a9",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 31,
+    "created_at": "2026-08-21T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000aa",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 21,
+    "created_at": "2026-08-08T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000ab",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 24,
+    "created_at": "2026-05-04T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000ac",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 13,
+    "created_at": "2026-06-21T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000ad",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 23,
+    "created_at": "2026-07-23T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000ae",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Migrate asynchronous jobs to Redis Streams",
+    "description": "Implementation deliverable for migrate asynchronous jobs to redis streams in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "COMPLETED",
+    "estimated_hours": 24,
+    "created_at": "2026-05-01T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000af",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement zero-downtime schema migration verification",
+    "description": "Implementation deliverable for implement zero-downtime schema migration verification in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 29,
+    "created_at": "2026-06-22T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000b0",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 29,
+    "created_at": "2026-08-23T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000b1",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 21,
+    "created_at": "2026-08-18T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000b2",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 21,
+    "created_at": "2026-09-26T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000b3",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 23,
+    "created_at": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000b4",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 24,
+    "created_at": "2026-07-27T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000b5",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 32,
+    "created_at": "2026-08-19T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000b6",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 36,
+    "created_at": "2026-08-22T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000b7",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Migrate asynchronous jobs to Redis Streams",
+    "description": "Implementation deliverable for migrate asynchronous jobs to redis streams in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "COMPLETED",
+    "estimated_hours": 25,
+    "created_at": "2026-06-11T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000b8",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 17,
+    "created_at": "2026-05-11T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000b9",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 27,
+    "created_at": "2026-08-24T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000ba",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 23,
+    "created_at": "2026-05-12T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000bb",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 38,
+    "created_at": "2026-05-08T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000bc",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 18,
+    "created_at": "2026-04-26T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000bd",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 37,
+    "created_at": "2026-08-07T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000be",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 34,
+    "created_at": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000bf",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Migrate asynchronous jobs to Redis Streams",
+    "description": "Implementation deliverable for migrate asynchronous jobs to redis streams in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "COMPLETED",
+    "estimated_hours": 14,
+    "created_at": "2026-05-27T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000c0",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement zero-downtime schema migration verification",
+    "description": "Implementation deliverable for implement zero-downtime schema migration verification in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 35,
+    "created_at": "2026-06-09T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000c1",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "title": "Benchmarking gRPC payload serialization latency",
+    "description": "Implementation deliverable for benchmarking grpc payload serialization latency in Core Payment Gateway Hardening.",
+    "status": "COMPLETED",
+    "estimated_hours": 12,
+    "created_at": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000c2",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 31,
+    "created_at": "2026-05-28T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000c3",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 34,
+    "created_at": "2026-08-25T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000c4",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 18,
+    "created_at": "2026-06-12T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000c5",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 23,
+    "created_at": "2026-08-31T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000c6",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 31,
+    "created_at": "2026-05-01T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000c7",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 35,
+    "created_at": "2026-10-09T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000c8",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 35,
+    "created_at": "2026-06-16T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000c9",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Migrate asynchronous jobs to Redis Streams",
+    "description": "Implementation deliverable for migrate asynchronous jobs to redis streams in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "COMPLETED",
+    "estimated_hours": 34,
+    "created_at": "2026-04-24T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000ca",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement zero-downtime schema migration verification",
+    "description": "Implementation deliverable for implement zero-downtime schema migration verification in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 30,
+    "created_at": "2026-09-22T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000cb",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 30,
+    "created_at": "2026-06-21T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000cc",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 33,
+    "created_at": "2026-08-08T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000cd",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 16,
+    "created_at": "2026-09-28T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000ce",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 31,
+    "created_at": "2026-08-03T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000cf",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 15,
+    "created_at": "2026-09-02T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000d0",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 14,
+    "created_at": "2026-09-28T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000d1",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 33,
+    "created_at": "2026-06-14T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000d2",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 30,
+    "created_at": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000d3",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 12,
+    "created_at": "2026-06-02T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000d4",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 33,
+    "created_at": "2026-09-04T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000d5",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 34,
+    "created_at": "2026-07-20T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000d6",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 24,
+    "created_at": "2026-09-03T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000d7",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 12,
+    "created_at": "2026-08-08T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000d8",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 21,
+    "created_at": "2026-08-28T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000d9",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Migrate asynchronous jobs to Redis Streams",
+    "description": "Implementation deliverable for migrate asynchronous jobs to redis streams in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "COMPLETED",
+    "estimated_hours": 29,
+    "created_at": "2026-08-04T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000da",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 33,
+    "created_at": "2026-05-30T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000db",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 30,
+    "created_at": "2026-09-23T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000dc",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 16,
+    "created_at": "2026-09-30T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000dd",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 27,
+    "created_at": "2026-05-15T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000de",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 34,
+    "created_at": "2026-08-27T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000df",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 12,
+    "created_at": "2026-04-26T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000e0",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 38,
+    "created_at": "2026-06-29T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000e1",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Migrate asynchronous jobs to Redis Streams",
+    "description": "Implementation deliverable for migrate asynchronous jobs to redis streams in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "COMPLETED",
+    "estimated_hours": 38,
+    "created_at": "2026-06-04T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000e2",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement zero-downtime schema migration verification",
+    "description": "Implementation deliverable for implement zero-downtime schema migration verification in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 32,
+    "created_at": "2026-04-26T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000e3",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 38,
+    "created_at": "2026-06-16T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000e4",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 38,
+    "created_at": "2026-09-29T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000e5",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 29,
+    "created_at": "2026-04-26T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000e6",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 33,
+    "created_at": "2026-07-24T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000e7",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 13,
+    "created_at": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000e8",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 34,
+    "created_at": "2026-09-29T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000e9",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 15,
+    "created_at": "2026-06-29T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000ea",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Migrate asynchronous jobs to Redis Streams",
+    "description": "Implementation deliverable for migrate asynchronous jobs to redis streams in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "COMPLETED",
+    "estimated_hours": 17,
+    "created_at": "2026-07-19T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000eb",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement zero-downtime schema migration verification",
+    "description": "Implementation deliverable for implement zero-downtime schema migration verification in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 33,
+    "created_at": "2026-06-10T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000ec",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 36,
+    "created_at": "2026-09-23T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000ed",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 34,
+    "created_at": "2026-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000ee",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 31,
+    "created_at": "2026-06-18T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000ef",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 16,
+    "created_at": "2026-08-30T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000f0",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 26,
+    "created_at": "2026-07-05T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000f1",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 37,
+    "created_at": "2026-08-18T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000f2",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 20,
+    "created_at": "2026-07-20T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000f3",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 18,
+    "created_at": "2026-08-03T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000f4",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 26,
+    "created_at": "2026-06-26T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000f5",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 20,
+    "created_at": "2026-09-17T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000f6",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 30,
+    "created_at": "2026-05-03T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000f7",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 30,
+    "created_at": "2026-06-25T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000f8",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 13,
+    "created_at": "2026-07-07T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000f9",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 23,
+    "created_at": "2026-07-26T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000fa",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 16,
+    "created_at": "2026-10-02T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000fb",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 27,
+    "created_at": "2026-08-14T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000fc",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 28,
+    "created_at": "2026-06-30T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000fd",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 22,
+    "created_at": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000fe",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 24,
+    "created_at": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-0000000000ff",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 34,
+    "created_at": "2026-07-28T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000100",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 33,
+    "created_at": "2026-06-10T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000101",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Migrate asynchronous jobs to Redis Streams",
+    "description": "Implementation deliverable for migrate asynchronous jobs to redis streams in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "COMPLETED",
+    "estimated_hours": 38,
+    "created_at": "2026-05-29T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000102",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement zero-downtime schema migration verification",
+    "description": "Implementation deliverable for implement zero-downtime schema migration verification in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 14,
+    "created_at": "2026-04-28T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000103",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 27,
+    "created_at": "2026-09-10T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000104",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 35,
+    "created_at": "2026-07-31T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000105",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 20,
+    "created_at": "2026-08-27T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000106",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 16,
+    "created_at": "2026-09-14T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000107",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 15,
+    "created_at": "2026-07-12T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000108",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 23,
+    "created_at": "2026-08-26T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000109",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 27,
+    "created_at": "2026-04-23T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000010a",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Migrate asynchronous jobs to Redis Streams",
+    "description": "Implementation deliverable for migrate asynchronous jobs to redis streams in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "COMPLETED",
+    "estimated_hours": 31,
+    "created_at": "2026-07-10T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000010b",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement zero-downtime schema migration verification",
+    "description": "Implementation deliverable for implement zero-downtime schema migration verification in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 30,
+    "created_at": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000010c",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "title": "Benchmarking gRPC payload serialization latency",
+    "description": "Implementation deliverable for benchmarking grpc payload serialization latency in Core Payment Gateway Hardening.",
+    "status": "COMPLETED",
+    "estimated_hours": 19,
+    "created_at": "2026-06-28T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000010d",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 35,
+    "created_at": "2026-05-10T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000010e",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 20,
+    "created_at": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000010f",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 29,
+    "created_at": "2026-05-16T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000110",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 16,
+    "created_at": "2026-07-17T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000111",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 23,
+    "created_at": "2026-07-25T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000112",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 30,
+    "created_at": "2026-10-02T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000113",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 21,
+    "created_at": "2026-05-26T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000114",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Migrate asynchronous jobs to Redis Streams",
+    "description": "Implementation deliverable for migrate asynchronous jobs to redis streams in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "COMPLETED",
+    "estimated_hours": 15,
+    "created_at": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000115",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement zero-downtime schema migration verification",
+    "description": "Implementation deliverable for implement zero-downtime schema migration verification in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 21,
+    "created_at": "2026-06-15T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000116",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "title": "Benchmarking gRPC payload serialization latency",
+    "description": "Implementation deliverable for benchmarking grpc payload serialization latency in Core Payment Gateway Hardening.",
+    "status": "COMPLETED",
+    "estimated_hours": 15,
+    "created_at": "2026-05-05T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000117",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 38,
+    "created_at": "2026-09-02T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000118",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Implement OpenTelemetry trace propagators",
+    "description": "Implementation deliverable for implement opentelemetry trace propagators in Real-Time Telemetry & Observability Pipeline.",
+    "status": "COMPLETED",
+    "estimated_hours": 33,
+    "created_at": "2026-05-19T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000119",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Optimize GIN indexes on JSONB metadata",
+    "description": "Implementation deliverable for optimize gin indexes on jsonb metadata in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 30,
+    "created_at": "2026-09-29T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000011a",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Audit IAM roles and delete unused service principals",
+    "description": "Implementation deliverable for audit iam roles and delete unused service principals in Customer Analytics Lakehouse.",
+    "status": "COMPLETED",
+    "estimated_hours": 15,
+    "created_at": "2026-06-16T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000011b",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement rate-limiting middleware for auth endpoints",
+    "description": "Implementation deliverable for implement rate-limiting middleware for auth endpoints in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 38,
+    "created_at": "2026-05-11T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000011c",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Construct automated canary deployment verification test",
+    "description": "Implementation deliverable for construct automated canary deployment verification test in Cloud Native Migration Platform.",
+    "status": "COMPLETED",
+    "estimated_hours": 35,
+    "created_at": "2026-09-29T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000011d",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Configure Prometheus histogram alert rules",
+    "description": "Implementation deliverable for configure prometheus histogram alert rules in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 24,
+    "created_at": "2026-08-30T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000011e",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Migrate asynchronous jobs to Redis Streams",
+    "description": "Implementation deliverable for migrate asynchronous jobs to redis streams in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "COMPLETED",
+    "estimated_hours": 27,
+    "created_at": "2026-06-10T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000011f",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Implement zero-downtime schema migration verification",
+    "description": "Implementation deliverable for implement zero-downtime schema migration verification in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 20,
+    "created_at": "2026-09-17T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000120",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "title": "Benchmarking gRPC payload serialization latency",
+    "description": "Implementation deliverable for benchmarking grpc payload serialization latency in Core Payment Gateway Hardening.",
+    "status": "COMPLETED",
+    "estimated_hours": 15,
+    "created_at": "2026-06-08T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000121",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 25,
+    "created_at": "2026-05-12T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000122",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 31,
+    "created_at": "2026-07-10T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000123",
+    "project_id": "30000000-0000-4000-8000-000000000007",
+    "title": "Refactor connection pool timeout handling",
+    "description": "Implementation deliverable for refactor connection pool timeout handling in Legacy Monolith Decomposition Phase 2.",
+    "status": "COMPLETED",
+    "estimated_hours": 15,
+    "created_at": "2026-05-21T00:00:00.000Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000124",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Sprint Active Task #1: Implement OpenTelemetry trace propagators",
+    "description": "Active sprint deliverable scheduled for upcoming milestone in Real-Time Telemetry & Observability Pipeline.",
+    "status": "TODO",
+    "estimated_hours": 38,
+    "created_at": "2026-10-25T09:00:00Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000125",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Sprint Active Task #2: Optimize GIN indexes on JSONB metadata",
+    "description": "Active sprint deliverable scheduled for upcoming milestone in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "IN_PROGRESS",
+    "estimated_hours": 34,
+    "created_at": "2026-10-25T09:00:00Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000126",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Sprint Active Task #3: Audit IAM roles and delete unused service principals",
+    "description": "Active sprint deliverable scheduled for upcoming milestone in Customer Analytics Lakehouse.",
+    "status": "TODO",
+    "estimated_hours": 19,
+    "created_at": "2026-10-25T09:00:00Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000127",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "title": "Sprint Active Task #4: Implement rate-limiting middleware for auth endpoints",
+    "description": "Active sprint deliverable scheduled for upcoming milestone in Core Payment Gateway Hardening.",
+    "status": "IN_PROGRESS",
+    "estimated_hours": 18,
+    "created_at": "2026-10-25T09:00:00Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000128",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Sprint Active Task #5: Construct automated canary deployment verification test",
+    "description": "Active sprint deliverable scheduled for upcoming milestone in Cloud Native Migration Platform.",
+    "status": "TODO",
+    "estimated_hours": 34,
+    "created_at": "2026-10-25T09:00:00Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-000000000129",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Sprint Active Task #6: Configure Prometheus histogram alert rules",
+    "description": "Active sprint deliverable scheduled for upcoming milestone in Real-Time Telemetry & Observability Pipeline.",
+    "status": "IN_PROGRESS",
+    "estimated_hours": 16,
+    "created_at": "2026-10-25T09:00:00Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000012a",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Sprint Active Task #7: Migrate asynchronous jobs to Redis Streams",
+    "description": "Active sprint deliverable scheduled for upcoming milestone in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "TODO",
+    "estimated_hours": 23,
+    "created_at": "2026-10-25T09:00:00Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000012b",
+    "project_id": "30000000-0000-4000-8000-000000000004",
+    "title": "Sprint Active Task #8: Implement zero-downtime schema migration verification",
+    "description": "Active sprint deliverable scheduled for upcoming milestone in Customer Analytics Lakehouse.",
+    "status": "IN_PROGRESS",
+    "estimated_hours": 22,
+    "created_at": "2026-10-25T09:00:00Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000012c",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "title": "Sprint Active Task #9: Benchmarking gRPC payload serialization latency",
+    "description": "Active sprint deliverable scheduled for upcoming milestone in Core Payment Gateway Hardening.",
+    "status": "TODO",
+    "estimated_hours": 33,
+    "created_at": "2026-10-25T09:00:00Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000012d",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "title": "Sprint Active Task #10: Configure mutual TLS proxy for service mesh egress",
+    "description": "Active sprint deliverable scheduled for upcoming milestone in Cloud Native Migration Platform.",
+    "status": "IN_PROGRESS",
+    "estimated_hours": 25,
+    "created_at": "2026-10-25T09:00:00Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000012e",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "title": "Sprint Active Task #11: Harden input validation schemas across public routes",
+    "description": "Active sprint deliverable scheduled for upcoming milestone in Real-Time Telemetry & Observability Pipeline.",
+    "status": "TODO",
+    "estimated_hours": 29,
+    "created_at": "2026-10-25T09:00:00Z"
+  },
+  {
+    "id": "61000000-0000-4000-8000-00000000012f",
+    "project_id": "30000000-0000-4000-8000-000000000003",
+    "title": "Sprint Active Task #12: Refactor connection pool timeout handling",
+    "description": "Active sprint deliverable scheduled for upcoming milestone in Enterprise Identity & Zero-Trust Mesh.",
+    "status": "IN_PROGRESS",
+    "estimated_hours": 40,
+    "created_at": "2026-10-25T09:00:00Z"
+  }
+]

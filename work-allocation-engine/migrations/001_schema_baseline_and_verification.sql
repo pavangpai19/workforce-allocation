@@ -1,0 +1,40 @@
+-- ============================================================================
+-- MIGRATION: 001_schema_baseline_and_verification.sql
+-- PURPOSE: Documented baseline verification & export procedure for Supabase
+-- ============================================================================
+
+-- NOTE: This file is 100% NON-EXECUTABLE and documentation-only.
+-- No database writes, extension installations, or DDL modifications are executed by this file.
+--
+-- PRE-MIGRATION VERIFICATION CHECK:
+-- Before running subsequent migrations (002+), manually verify in your Supabase SQL Editor
+-- or via psql that UUID and cryptographic extensions are enabled:
+--   SELECT * FROM pg_extension WHERE extname IN ('uuid-ossp', 'pgcrypto');
+-- If not present, enable them via the Supabase Dashboard (Database -> Extensions)
+-- or execute manually if privileged:
+--   CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
+--   CREATE EXTENSION IF NOT EXISTS "pgcrypto";
+--
+-- BASELINE PRE-EXISTING TABLES (16 tables referenced across the application):
+-- 1.  employees
+-- 2.  employee_auth
+-- 3.  skills
+-- 4.  employee_skills
+-- 5.  projects
+-- 6.  allocations
+-- 7.  allocation_decisions
+-- 8.  decision_logs
+-- 9.  decision_weights
+-- 10. ml_predictions
+-- 11. task_history
+-- 12. employee_performance
+-- 13. employee_profiles
+-- 14. employee_knowledge
+-- 15. manager_feedback
+-- 16. decision_feedback
+--
+-- SCHEMA EXPORT PROCEDURE:
+-- To export the full schema baseline from your Supabase instance, run:
+--   supabase db dump --schema public -f supabase_public_schema.sql
+-- or use pg_dump:
+--   pg_dump "postgresql://postgres:[PASSWORD]@[HOST]:5432/postgres" --schema-only > baseline.sql

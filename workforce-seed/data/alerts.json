@@ -1,0 +1,52 @@
+[
+  {
+    "id": "90000000-0000-4000-8000-000000000001",
+    "type": "STAFFING_GAP",
+    "severity": "HIGH",
+    "message": "Open Staffing Requirement: Cloud Native Migration Platform has unallocated critical roles for upcoming sprint milestones.",
+    "status": "ACTIVE",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "metadata": {
+      "project_name": "Cloud Native Migration Platform",
+      "checked_at": "2026-11-03T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "90000000-0000-4000-8000-000000000002",
+    "type": "STAFFING_GAP",
+    "severity": "HIGH",
+    "message": "Open Staffing Requirement: Core Payment Gateway Hardening has unallocated critical roles for upcoming sprint milestones.",
+    "status": "ACTIVE",
+    "project_id": "30000000-0000-4000-8000-000000000005",
+    "metadata": {
+      "project_name": "Core Payment Gateway Hardening",
+      "checked_at": "2026-11-03T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "90000000-0000-4000-8000-000000000003",
+    "type": "DEADLINE",
+    "severity": "WARNING",
+    "message": "Milestone Approaching: Cloud Native Migration Platform delivery deadline is scheduled for 2026-12-15.",
+    "status": "ACTIVE",
+    "project_id": "30000000-0000-4000-8000-000000000001",
+    "metadata": {
+      "project_name": "Cloud Native Migration Platform",
+      "deadline": "2026-12-15",
+      "checked_at": "2026-11-03T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "90000000-0000-4000-8000-000000000004",
+    "type": "DEADLINE",
+    "severity": "WARNING",
+    "message": "Milestone Approaching: Real-Time Telemetry & Observability Pipeline delivery deadline is scheduled for 2027-01-15.",
+    "status": "ACTIVE",
+    "project_id": "30000000-0000-4000-8000-000000000002",
+    "metadata": {
+      "project_name": "Real-Time Telemetry & Observability Pipeline",
+      "deadline": "2027-01-15",
+      "checked_at": "2026-11-03T00:00:00.000Z"
+    }
+  }
+]

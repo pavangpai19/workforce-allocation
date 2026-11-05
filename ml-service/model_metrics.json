@@ -1,0 +1,81 @@
+{
+    "dataset": "historical_outcomes.csv (synthetic_dataset_option_a_v2)",
+    "total_records": 1000,
+    "train_records": 800,
+    "test_records": 200,
+    "burnout_distribution": {
+        "class_0_count": 622,
+        "class_0_percent": 62.2,
+        "class_1_count": 378,
+        "class_1_percent": 37.8
+    },
+    "features": [
+        "skill_match_score",
+        "workload_ratio",
+        "task_complexity",
+        "estimated_hours",
+        "efficiency_score",
+        "consistency_score",
+        "reliability_score",
+        "availability_score",
+        "project_priority"
+    ],
+    "models": {
+        "performance_model": {
+            "algorithm": "RandomForestRegressor",
+            "hyperparameters": {
+                "n_estimators": 100,
+                "random_state": 42
+            },
+            "target": "actual_performance_score",
+            "metrics": {
+                "MAE": 0.0816,
+                "RMSE": 0.0956,
+                "R2": 0.4768
+            }
+        },
+        "completion_model": {
+            "algorithm": "GradientBoostingRegressor",
+            "hyperparameters": {
+                "n_estimators": 100,
+                "random_state": 42
+            },
+            "target": "actual_hours",
+            "metrics": {
+                "MAE": 6.1628,
+                "RMSE": 8.1962,
+                "R2": 0.9434
+            }
+        },
+        "burnout_model_logistic_regression": {
+            "algorithm": "LogisticRegression",
+            "hyperparameters": {
+                "max_iter": 1000,
+                "random_state": 42
+            },
+            "target": "burnout_high_risk",
+            "metrics": {
+                "Accuracy": 0.995,
+                "Precision": 1.0,
+                "Recall": 0.9867,
+                "F1_score": 0.9933,
+                "ROC_AUC": 0.9997
+            }
+        },
+        "burnout_model_random_forest": {
+            "algorithm": "RandomForestClassifier",
+            "hyperparameters": {
+                "n_estimators": 100,
+                "random_state": 42
+            },
+            "target": "burnout_high_risk",
+            "metrics": {
+                "Accuracy": 1.0,
+                "Precision": 1.0,
+                "Recall": 1.0,
+                "F1_score": 1.0,
+                "ROC_AUC": 1.0
+            }
+        }
+    }
+}
